@@ -1,0 +1,4502 @@
+[
+    {
+        "url": "ala_scan/6M0J_A25A.pdb",
+        "name": "6M0J_A25A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.39,
+        "e_elec": -252.2,
+        "e_desolv": -39.52,
+        "buried_surf_area": 1787.06,
+        "haddock_score": -148.35
+    },
+    {
+        "url": "ala_scan/6M0J_A36A.pdb",
+        "name": "6M0J_A36A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.39,
+        "e_elec": -252.2,
+        "e_desolv": -39.52,
+        "buried_surf_area": 1787.06,
+        "haddock_score": -148.35
+    },
+    {
+        "url": "ala_scan/6M0J_A386A.pdb",
+        "name": "6M0J_A386A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.39,
+        "e_elec": -252.2,
+        "e_desolv": -39.52,
+        "buried_surf_area": 1787.06,
+        "haddock_score": -148.35
+    },
+    {
+        "url": "ala_scan/6M0J_A387A.pdb",
+        "name": "6M0J_A387A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.39,
+        "e_elec": -252.2,
+        "e_desolv": -39.52,
+        "buried_surf_area": 1787.06,
+        "haddock_score": -148.35
+    },
+    {
+        "url": "ala_scan/6M0J_A46A.pdb",
+        "name": "6M0J_A46A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.39,
+        "e_elec": -252.2,
+        "e_desolv": -39.52,
+        "buried_surf_area": 1787.06,
+        "haddock_score": -148.35
+    },
+    {
+        "url": "ala_scan/6M0J_A80A.pdb",
+        "name": "6M0J_A80A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.39,
+        "e_elec": -252.2,
+        "e_desolv": -39.52,
+        "buried_surf_area": 1787.06,
+        "haddock_score": -148.35
+    },
+    {
+        "url": "ala_scan/6M0J_D30A.pdb",
+        "name": "6M0J_D30A",
+        "dataset": "ala_scan",
+        "e_vdw": -65.03,
+        "e_elec": -160.96,
+        "e_desolv": -58.5,
+        "buried_surf_area": 1822.22,
+        "haddock_score": -155.72
+    },
+    {
+        "url": "ala_scan/6M0J_D350A.pdb",
+        "name": "6M0J_D350A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.12,
+        "e_elec": -260.22,
+        "e_desolv": -47.86,
+        "buried_surf_area": 1793.59,
+        "haddock_score": -160.02
+    },
+    {
+        "url": "ala_scan/6M0J_D355A.pdb",
+        "name": "6M0J_D355A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.09,
+        "e_elec": -256.38,
+        "e_desolv": -39.85,
+        "buried_surf_area": 1785.01,
+        "haddock_score": -150.22
+    },
+    {
+        "url": "ala_scan/6M0J_D38A.pdb",
+        "name": "6M0J_D38A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.43,
+        "e_elec": -260.84,
+        "e_desolv": -43.26,
+        "buried_surf_area": 1839.06,
+        "haddock_score": -148.86
+    },
+    {
+        "url": "ala_scan/6M0J_E22A.pdb",
+        "name": "6M0J_E22A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.52,
+        "e_elec": -249.01,
+        "e_desolv": -37.9,
+        "buried_surf_area": 1829.27,
+        "haddock_score": -144.22
+    },
+    {
+        "url": "ala_scan/6M0J_E23A.pdb",
+        "name": "6M0J_E23A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.4,
+        "e_elec": -222.77,
+        "e_desolv": -47.38,
+        "buried_surf_area": 1765.02,
+        "haddock_score": -152.33
+    },
+    {
+        "url": "ala_scan/6M0J_E329A.pdb",
+        "name": "6M0J_E329A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.13,
+        "e_elec": -238.89,
+        "e_desolv": -47.65,
+        "buried_surf_area": 1789.26,
+        "haddock_score": -154.56
+    },
+    {
+        "url": "ala_scan/6M0J_E35A.pdb",
+        "name": "6M0J_E35A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.28,
+        "e_elec": -245.53,
+        "e_desolv": -55.09,
+        "buried_surf_area": 1812.35,
+        "haddock_score": -164.48
+    },
+    {
+        "url": "ala_scan/6M0J_E37A.pdb",
+        "name": "6M0J_E37A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.68,
+        "e_elec": -257.07,
+        "e_desolv": -40.02,
+        "buried_surf_area": 1838.06,
+        "haddock_score": -147.11
+    },
+    {
+        "url": "ala_scan/6M0J_E75A.pdb",
+        "name": "6M0J_E75A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.1,
+        "e_elec": -248.6,
+        "e_desolv": -38.92,
+        "buried_surf_area": 1831.36,
+        "haddock_score": -147.74
+    },
+    {
+        "url": "ala_scan/6M0J_F28A.pdb",
+        "name": "6M0J_F28A",
+        "dataset": "ala_scan",
+        "e_vdw": -64.23,
+        "e_elec": -236.59,
+        "e_desolv": -38.68,
+        "buried_surf_area": 1771.41,
+        "haddock_score": -150.23
+    },
+    {
+        "url": "ala_scan/6M0J_F327A.pdb",
+        "name": "6M0J_F327A",
+        "dataset": "ala_scan",
+        "e_vdw": -66.37,
+        "e_elec": -237.4,
+        "e_desolv": -35.03,
+        "buried_surf_area": 1827.24,
+        "haddock_score": -148.88
+    },
+    {
+        "url": "ala_scan/6M0J_F32A.pdb",
+        "name": "6M0J_F32A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.92,
+        "e_elec": -260.61,
+        "e_desolv": -33.26,
+        "buried_surf_area": 1807.48,
+        "haddock_score": -147.3
+    },
+    {
+        "url": "ala_scan/6M0J_F356A.pdb",
+        "name": "6M0J_F356A",
+        "dataset": "ala_scan",
+        "e_vdw": -63.99,
+        "e_elec": -233.31,
+        "e_desolv": -34.19,
+        "buried_surf_area": 1778.84,
+        "haddock_score": -144.84
+    },
+    {
+        "url": "ala_scan/6M0J_F390A.pdb",
+        "name": "6M0J_F390A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.06,
+        "e_elec": -250.13,
+        "e_desolv": -35.03,
+        "buried_surf_area": 1849.69,
+        "haddock_score": -146.12
+    },
+    {
+        "url": "ala_scan/6M0J_F40A.pdb",
+        "name": "6M0J_F40A",
+        "dataset": "ala_scan",
+        "e_vdw": -63.01,
+        "e_elec": -246.42,
+        "e_desolv": -40.06,
+        "buried_surf_area": 1789.41,
+        "haddock_score": -152.35
+    },
+    {
+        "url": "ala_scan/6M0J_F72A.pdb",
+        "name": "6M0J_F72A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.77,
+        "e_elec": -236.78,
+        "e_desolv": -44.96,
+        "buried_surf_area": 1806.34,
+        "haddock_score": -154.09
+    },
+    {
+        "url": "ala_scan/6M0J_G326A.pdb",
+        "name": "6M0J_G326A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.22,
+        "e_elec": -256.23,
+        "e_desolv": -45.72,
+        "buried_surf_area": 1788.79,
+        "haddock_score": -156.19
+    },
+    {
+        "url": "ala_scan/6M0J_G352A.pdb",
+        "name": "6M0J_G352A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.46,
+        "e_elec": -244.98,
+        "e_desolv": -40.16,
+        "buried_surf_area": 1853.91,
+        "haddock_score": -148.62
+    },
+    {
+        "url": "ala_scan/6M0J_G354A.pdb",
+        "name": "6M0J_G354A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.81,
+        "e_elec": -224.47,
+        "e_desolv": -47.15,
+        "buried_surf_area": 1779.93,
+        "haddock_score": -151.85
+    },
+    {
+        "url": "ala_scan/6M0J_H34A.pdb",
+        "name": "6M0J_H34A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.65,
+        "e_elec": -231.94,
+        "e_desolv": -45.73,
+        "buried_surf_area": 1685.87,
+        "haddock_score": -149.77
+    },
+    {
+        "url": "ala_scan/6M0J_I21A.pdb",
+        "name": "6M0J_I21A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.57,
+        "e_elec": -230.66,
+        "e_desolv": -46.92,
+        "buried_surf_area": 1802.16,
+        "haddock_score": -153.62
+    },
+    {
+        "url": "ala_scan/6M0J_K26A.pdb",
+        "name": "6M0J_K26A",
+        "dataset": "ala_scan",
+        "e_vdw": -64.86,
+        "e_elec": -242.2,
+        "e_desolv": -37.07,
+        "buried_surf_area": 1842.03,
+        "haddock_score": -150.37
+    },
+    {
+        "url": "ala_scan/6M0J_K31A.pdb",
+        "name": "6M0J_K31A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.46,
+        "e_elec": -210.99,
+        "e_desolv": -46.32,
+        "buried_surf_area": 1734.99,
+        "haddock_score": -146.98
+    },
+    {
+        "url": "ala_scan/6M0J_K353A.pdb",
+        "name": "6M0J_K353A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.03,
+        "e_elec": -233.81,
+        "e_desolv": -45.2,
+        "buried_surf_area": 1792.8,
+        "haddock_score": -147.99
+    },
+    {
+        "url": "ala_scan/6M0J_K68A.pdb",
+        "name": "6M0J_K68A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.62,
+        "e_elec": -254.77,
+        "e_desolv": -48.76,
+        "buried_surf_area": 1807.12,
+        "haddock_score": -161.33
+    },
+    {
+        "url": "ala_scan/6M0J_L29A.pdb",
+        "name": "6M0J_L29A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.64,
+        "e_elec": -238.4,
+        "e_desolv": -43.79,
+        "buried_surf_area": 1835.09,
+        "haddock_score": -151.11
+    },
+    {
+        "url": "ala_scan/6M0J_L351A.pdb",
+        "name": "6M0J_L351A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.38,
+        "e_elec": -258.61,
+        "e_desolv": -40.59,
+        "buried_surf_area": 1842.1,
+        "haddock_score": -153.69
+    },
+    {
+        "url": "ala_scan/6M0J_L39A.pdb",
+        "name": "6M0J_L39A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.41,
+        "e_elec": -272.23,
+        "e_desolv": -39.2,
+        "buried_surf_area": 1895.47,
+        "haddock_score": -153.06
+    },
+    {
+        "url": "ala_scan/6M0J_L45A.pdb",
+        "name": "6M0J_L45A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.31,
+        "e_elec": -240.0,
+        "e_desolv": -39.78,
+        "buried_surf_area": 1734.9,
+        "haddock_score": -147.09
+    },
+    {
+        "url": "ala_scan/6M0J_L79A.pdb",
+        "name": "6M0J_L79A",
+        "dataset": "ala_scan",
+        "e_vdw": -66.11,
+        "e_elec": -240.58,
+        "e_desolv": -40.98,
+        "buried_surf_area": 1828.12,
+        "haddock_score": -155.21
+    },
+    {
+        "url": "ala_scan/6M0J_L97A.pdb",
+        "name": "6M0J_L97A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.21,
+        "e_elec": -236.78,
+        "e_desolv": -32.72,
+        "buried_surf_area": 1818.33,
+        "haddock_score": -140.29
+    },
+    {
+        "url": "ala_scan/6M0J_M323A.pdb",
+        "name": "6M0J_M323A",
+        "dataset": "ala_scan",
+        "e_vdw": -64.07,
+        "e_elec": -246.5,
+        "e_desolv": -49.18,
+        "buried_surf_area": 1903.0,
+        "haddock_score": -162.55
+    },
+    {
+        "url": "ala_scan/6M0J_M383A.pdb",
+        "name": "6M0J_M383A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.21,
+        "e_elec": -232.73,
+        "e_desolv": -44.29,
+        "buried_surf_area": 1798.39,
+        "haddock_score": -151.05
+    },
+    {
+        "url": "ala_scan/6M0J_M82A.pdb",
+        "name": "6M0J_M82A",
+        "dataset": "ala_scan",
+        "e_vdw": -63.4,
+        "e_elec": -196.13,
+        "e_desolv": -43.1,
+        "buried_surf_area": 1762.67,
+        "haddock_score": -145.73
+    },
+    {
+        "url": "ala_scan/6M0J_N330A.pdb",
+        "name": "6M0J_N330A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.99,
+        "e_elec": -204.86,
+        "e_desolv": -46.26,
+        "buried_surf_area": 1749.31,
+        "haddock_score": -148.22
+    },
+    {
+        "url": "ala_scan/6M0J_N33A.pdb",
+        "name": "6M0J_N33A",
+        "dataset": "ala_scan",
+        "e_vdw": -62.36,
+        "e_elec": -245.71,
+        "e_desolv": -49.51,
+        "buried_surf_area": 1846.07,
+        "haddock_score": -161.01
+    },
+    {
+        "url": "ala_scan/6M0J_N49A.pdb",
+        "name": "6M0J_N49A",
+        "dataset": "ala_scan",
+        "e_vdw": -62.89,
+        "e_elec": -227.5,
+        "e_desolv": -44.99,
+        "buried_surf_area": 1806.2,
+        "haddock_score": -153.38
+    },
+    {
+        "url": "ala_scan/6M0J_N61A.pdb",
+        "name": "6M0J_N61A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.89,
+        "e_elec": -217.19,
+        "e_desolv": -47.8,
+        "buried_surf_area": 1779.65,
+        "haddock_score": -150.13
+    },
+    {
+        "url": "ala_scan/6M0J_P389A.pdb",
+        "name": "6M0J_P389A",
+        "dataset": "ala_scan",
+        "e_vdw": -65.17,
+        "e_elec": -224.94,
+        "e_desolv": -39.28,
+        "buried_surf_area": 1836.65,
+        "haddock_score": -149.44
+    },
+    {
+        "url": "ala_scan/6M0J_P84A.pdb",
+        "name": "6M0J_P84A",
+        "dataset": "ala_scan",
+        "e_vdw": -64.58,
+        "e_elec": -219.87,
+        "e_desolv": -33.71,
+        "buried_surf_area": 1779.25,
+        "haddock_score": -142.26
+    },
+    {
+        "url": "ala_scan/6M0J_Q101A.pdb",
+        "name": "6M0J_Q101A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.58,
+        "e_elec": -263.77,
+        "e_desolv": -36.95,
+        "buried_surf_area": 1884.55,
+        "haddock_score": -147.28
+    },
+    {
+        "url": "ala_scan/6M0J_Q24A.pdb",
+        "name": "6M0J_Q24A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.43,
+        "e_elec": -213.87,
+        "e_desolv": -42.43,
+        "buried_surf_area": 1797.31,
+        "haddock_score": -143.63
+    },
+    {
+        "url": "ala_scan/6M0J_Q325A.pdb",
+        "name": "6M0J_Q325A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.11,
+        "e_elec": -251.96,
+        "e_desolv": -35.54,
+        "buried_surf_area": 1784.43,
+        "haddock_score": -146.04
+    },
+    {
+        "url": "ala_scan/6M0J_Q388A.pdb",
+        "name": "6M0J_Q388A",
+        "dataset": "ala_scan",
+        "e_vdw": -62.17,
+        "e_elec": -229.42,
+        "e_desolv": -50.03,
+        "buried_surf_area": 1755.45,
+        "haddock_score": -158.08
+    },
+    {
+        "url": "ala_scan/6M0J_Q42A.pdb",
+        "name": "6M0J_Q42A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.34,
+        "e_elec": -209.61,
+        "e_desolv": -47.41,
+        "buried_surf_area": 1779.07,
+        "haddock_score": -148.67
+    },
+    {
+        "url": "ala_scan/6M0J_Q76A.pdb",
+        "name": "6M0J_Q76A",
+        "dataset": "ala_scan",
+        "e_vdw": -65.49,
+        "e_elec": -199.28,
+        "e_desolv": -49.55,
+        "buried_surf_area": 1814.37,
+        "haddock_score": -154.9
+    },
+    {
+        "url": "ala_scan/6M0J_Q81A.pdb",
+        "name": "6M0J_Q81A",
+        "dataset": "ala_scan",
+        "e_vdw": -63.42,
+        "e_elec": -247.89,
+        "e_desolv": -40.97,
+        "buried_surf_area": 1802.11,
+        "haddock_score": -153.97
+    },
+    {
+        "url": "ala_scan/6M0J_R357A.pdb",
+        "name": "6M0J_R357A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.77,
+        "e_elec": -247.82,
+        "e_desolv": -41.14,
+        "buried_surf_area": 1779.3,
+        "haddock_score": -148.47
+    },
+    {
+        "url": "ala_scan/6M0J_R393A.pdb",
+        "name": "6M0J_R393A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.63,
+        "e_elec": -252.92,
+        "e_desolv": -41.49,
+        "buried_surf_area": 1800.54,
+        "haddock_score": -148.7
+    },
+    {
+        "url": "ala_scan/6M0J_S19A.pdb",
+        "name": "6M0J_S19A",
+        "dataset": "ala_scan",
+        "e_vdw": -65.4,
+        "e_elec": -221.16,
+        "e_desolv": -33.99,
+        "buried_surf_area": 1835.4,
+        "haddock_score": -143.62
+    },
+    {
+        "url": "ala_scan/6M0J_S331A.pdb",
+        "name": "6M0J_S331A",
+        "dataset": "ala_scan",
+        "e_vdw": -62.27,
+        "e_elec": -207.36,
+        "e_desolv": -44.77,
+        "buried_surf_area": 1801.21,
+        "haddock_score": -148.51
+    },
+    {
+        "url": "ala_scan/6M0J_S43A.pdb",
+        "name": "6M0J_S43A",
+        "dataset": "ala_scan",
+        "e_vdw": -63.72,
+        "e_elec": -241.43,
+        "e_desolv": -43.38,
+        "buried_surf_area": 1822.35,
+        "haddock_score": -155.39
+    },
+    {
+        "url": "ala_scan/6M0J_S44A.pdb",
+        "name": "6M0J_S44A",
+        "dataset": "ala_scan",
+        "e_vdw": -63.25,
+        "e_elec": -233.27,
+        "e_desolv": -38.41,
+        "buried_surf_area": 1794.99,
+        "haddock_score": -148.31
+    },
+    {
+        "url": "ala_scan/6M0J_S77A.pdb",
+        "name": "6M0J_S77A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.2,
+        "e_elec": -258.48,
+        "e_desolv": -40.53,
+        "buried_surf_area": 1853.25,
+        "haddock_score": -149.43
+    },
+    {
+        "url": "ala_scan/6M0J_T20A.pdb",
+        "name": "6M0J_T20A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.1,
+        "e_elec": -245.69,
+        "e_desolv": -36.27,
+        "buried_surf_area": 1804.52,
+        "haddock_score": -146.51
+    },
+    {
+        "url": "ala_scan/6M0J_T27A.pdb",
+        "name": "6M0J_T27A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.03,
+        "e_elec": -266.59,
+        "e_desolv": -42.48,
+        "buried_surf_area": 1803.03,
+        "haddock_score": -149.83
+    },
+    {
+        "url": "ala_scan/6M0J_T324A.pdb",
+        "name": "6M0J_T324A",
+        "dataset": "ala_scan",
+        "e_vdw": -62.78,
+        "e_elec": -244.69,
+        "e_desolv": -34.73,
+        "buried_surf_area": 1788.27,
+        "haddock_score": -146.45
+    },
+    {
+        "url": "ala_scan/6M0J_T78A.pdb",
+        "name": "6M0J_T78A",
+        "dataset": "ala_scan",
+        "e_vdw": -64.92,
+        "e_elec": -199.19,
+        "e_desolv": -45.63,
+        "buried_surf_area": 1766.44,
+        "haddock_score": -150.39
+    },
+    {
+        "url": "ala_scan/6M0J_W328A.pdb",
+        "name": "6M0J_W328A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.93,
+        "e_elec": -237.01,
+        "e_desolv": -45.94,
+        "buried_surf_area": 1767.64,
+        "haddock_score": -151.27
+    },
+    {
+        "url": "ala_scan/6M0J_W349A.pdb",
+        "name": "6M0J_W349A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.16,
+        "e_elec": -213.0,
+        "e_desolv": -44.55,
+        "buried_surf_area": 1839.01,
+        "haddock_score": -148.31
+    },
+    {
+        "url": "ala_scan/6M0J_W48A.pdb",
+        "name": "6M0J_W48A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.94,
+        "e_elec": -215.62,
+        "e_desolv": -34.8,
+        "buried_surf_area": 1807.65,
+        "haddock_score": -138.86
+    },
+    {
+        "url": "ala_scan/6M0J_Y385A.pdb",
+        "name": "6M0J_Y385A",
+        "dataset": "ala_scan",
+        "e_vdw": -62.82,
+        "e_elec": -248.47,
+        "e_desolv": -41.52,
+        "buried_surf_area": 1722.42,
+        "haddock_score": -154.03
+    },
+    {
+        "url": "ala_scan/6M0J_Y41A.pdb",
+        "name": "6M0J_Y41A",
+        "dataset": "ala_scan",
+        "e_vdw": -61.95,
+        "e_elec": -215.21,
+        "e_desolv": -38.64,
+        "buried_surf_area": 1804.71,
+        "haddock_score": -143.63
+    },
+    {
+        "url": "ala_scan/6M0J_Y83A.pdb",
+        "name": "6M0J_Y83A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.6,
+        "e_elec": -246.05,
+        "e_desolv": -33.76,
+        "buried_surf_area": 1753.69,
+        "haddock_score": -140.57
+    },
+    {
+        "url": "ala_scan/6M17_A25A.pdb",
+        "name": "6M17_A25A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.8,
+        "e_elec": -182.42,
+        "e_desolv": -1.8,
+        "buried_surf_area": 1677.87,
+        "haddock_score": -93.08
+    },
+    {
+        "url": "ala_scan/6M17_A36A.pdb",
+        "name": "6M17_A36A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.8,
+        "e_elec": -182.42,
+        "e_desolv": -1.8,
+        "buried_surf_area": 1677.87,
+        "haddock_score": -93.08
+    },
+    {
+        "url": "ala_scan/6M17_A386A.pdb",
+        "name": "6M17_A386A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.8,
+        "e_elec": -182.42,
+        "e_desolv": -1.8,
+        "buried_surf_area": 1677.87,
+        "haddock_score": -93.08
+    },
+    {
+        "url": "ala_scan/6M17_A387A.pdb",
+        "name": "6M17_A387A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.8,
+        "e_elec": -182.42,
+        "e_desolv": -1.8,
+        "buried_surf_area": 1677.87,
+        "haddock_score": -93.08
+    },
+    {
+        "url": "ala_scan/6M17_A46A.pdb",
+        "name": "6M17_A46A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.8,
+        "e_elec": -182.42,
+        "e_desolv": -1.8,
+        "buried_surf_area": 1677.87,
+        "haddock_score": -93.08
+    },
+    {
+        "url": "ala_scan/6M17_A80A.pdb",
+        "name": "6M17_A80A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.8,
+        "e_elec": -182.42,
+        "e_desolv": -1.8,
+        "buried_surf_area": 1677.87,
+        "haddock_score": -93.08
+    },
+    {
+        "url": "ala_scan/6M17_D30A.pdb",
+        "name": "6M17_D30A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.32,
+        "e_elec": -95.81,
+        "e_desolv": -16.34,
+        "buried_surf_area": 1707.3,
+        "haddock_score": -92.82
+    },
+    {
+        "url": "ala_scan/6M17_D350A.pdb",
+        "name": "6M17_D350A",
+        "dataset": "ala_scan",
+        "e_vdw": -60.94,
+        "e_elec": -203.67,
+        "e_desolv": -3.56,
+        "buried_surf_area": 1703.88,
+        "haddock_score": -105.23
+    },
+    {
+        "url": "ala_scan/6M17_D355A.pdb",
+        "name": "6M17_D355A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.33,
+        "e_elec": -212.13,
+        "e_desolv": -2.52,
+        "buried_surf_area": 1720.65,
+        "haddock_score": -99.28
+    },
+    {
+        "url": "ala_scan/6M17_D38A.pdb",
+        "name": "6M17_D38A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.3,
+        "e_elec": -216.64,
+        "e_desolv": -0.69,
+        "buried_surf_area": 1728.39,
+        "haddock_score": -100.32
+    },
+    {
+        "url": "ala_scan/6M17_E22A.pdb",
+        "name": "6M17_E22A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.84,
+        "e_elec": -166.19,
+        "e_desolv": -16.23,
+        "buried_surf_area": 1789.6,
+        "haddock_score": -103.31
+    },
+    {
+        "url": "ala_scan/6M17_E23A.pdb",
+        "name": "6M17_E23A",
+        "dataset": "ala_scan",
+        "e_vdw": -51.81,
+        "e_elec": -204.01,
+        "e_desolv": -14.91,
+        "buried_surf_area": 1726.69,
+        "haddock_score": -107.52
+    },
+    {
+        "url": "ala_scan/6M17_E329A.pdb",
+        "name": "6M17_E329A",
+        "dataset": "ala_scan",
+        "e_vdw": -59.9,
+        "e_elec": -172.79,
+        "e_desolv": -4.62,
+        "buried_surf_area": 1800.53,
+        "haddock_score": -99.08
+    },
+    {
+        "url": "ala_scan/6M17_E35A.pdb",
+        "name": "6M17_E35A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.84,
+        "e_elec": -190.83,
+        "e_desolv": 1.54,
+        "buried_surf_area": 1750.37,
+        "haddock_score": -94.47
+    },
+    {
+        "url": "ala_scan/6M17_E37A.pdb",
+        "name": "6M17_E37A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.26,
+        "e_elec": -212.52,
+        "e_desolv": 0.59,
+        "buried_surf_area": 1697.16,
+        "haddock_score": -95.17
+    },
+    {
+        "url": "ala_scan/6M17_E75A.pdb",
+        "name": "6M17_E75A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.83,
+        "e_elec": -198.48,
+        "e_desolv": -1.53,
+        "buried_surf_area": 1800.73,
+        "haddock_score": -100.06
+    },
+    {
+        "url": "ala_scan/6M17_F28A.pdb",
+        "name": "6M17_F28A",
+        "dataset": "ala_scan",
+        "e_vdw": -50.65,
+        "e_elec": -252.43,
+        "e_desolv": 11.55,
+        "buried_surf_area": 1668.46,
+        "haddock_score": -89.59
+    },
+    {
+        "url": "ala_scan/6M17_F327A.pdb",
+        "name": "6M17_F327A",
+        "dataset": "ala_scan",
+        "e_vdw": -52.13,
+        "e_elec": -181.72,
+        "e_desolv": -18.21,
+        "buried_surf_area": 1710.84,
+        "haddock_score": -106.68
+    },
+    {
+        "url": "ala_scan/6M17_F32A.pdb",
+        "name": "6M17_F32A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.69,
+        "e_elec": -194.36,
+        "e_desolv": -6.17,
+        "buried_surf_area": 1738.99,
+        "haddock_score": -101.73
+    },
+    {
+        "url": "ala_scan/6M17_F356A.pdb",
+        "name": "6M17_F356A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.37,
+        "e_elec": -209.3,
+        "e_desolv": -0.95,
+        "buried_surf_area": 1730.03,
+        "haddock_score": -96.18
+    },
+    {
+        "url": "ala_scan/6M17_F390A.pdb",
+        "name": "6M17_F390A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.08,
+        "e_elec": -165.0,
+        "e_desolv": -5.39,
+        "buried_surf_area": 1708.74,
+        "haddock_score": -93.47
+    },
+    {
+        "url": "ala_scan/6M17_F40A.pdb",
+        "name": "6M17_F40A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.05,
+        "e_elec": -221.15,
+        "e_desolv": -4.07,
+        "buried_surf_area": 1761.62,
+        "haddock_score": -103.35
+    },
+    {
+        "url": "ala_scan/6M17_F72A.pdb",
+        "name": "6M17_F72A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.5,
+        "e_elec": -191.42,
+        "e_desolv": -1.51,
+        "buried_surf_area": 1682.92,
+        "haddock_score": -95.29
+    },
+    {
+        "url": "ala_scan/6M17_G326A.pdb",
+        "name": "6M17_G326A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.16,
+        "e_elec": -207.45,
+        "e_desolv": 0.03,
+        "buried_surf_area": 1767.74,
+        "haddock_score": -95.62
+    },
+    {
+        "url": "ala_scan/6M17_G352A.pdb",
+        "name": "6M17_G352A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.2,
+        "e_elec": -174.95,
+        "e_desolv": -17.81,
+        "buried_surf_area": 1707.51,
+        "haddock_score": -106.0
+    },
+    {
+        "url": "ala_scan/6M17_G354A.pdb",
+        "name": "6M17_G354A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.8,
+        "e_elec": -112.78,
+        "e_desolv": -24.11,
+        "buried_surf_area": 1706.35,
+        "haddock_score": -105.47
+    },
+    {
+        "url": "ala_scan/6M17_H34A.pdb",
+        "name": "6M17_H34A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.99,
+        "e_elec": -194.58,
+        "e_desolv": -0.61,
+        "buried_surf_area": 1642.53,
+        "haddock_score": -93.52
+    },
+    {
+        "url": "ala_scan/6M17_I21A.pdb",
+        "name": "6M17_I21A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.9,
+        "e_elec": -187.49,
+        "e_desolv": -4.3,
+        "buried_surf_area": 1720.83,
+        "haddock_score": -97.7
+    },
+    {
+        "url": "ala_scan/6M17_K26A.pdb",
+        "name": "6M17_K26A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.97,
+        "e_elec": -204.48,
+        "e_desolv": -9.19,
+        "buried_surf_area": 1810.26,
+        "haddock_score": -107.06
+    },
+    {
+        "url": "ala_scan/6M17_K31A.pdb",
+        "name": "6M17_K31A",
+        "dataset": "ala_scan",
+        "e_vdw": -52.8,
+        "e_elec": -181.29,
+        "e_desolv": -4.65,
+        "buried_surf_area": 1648.6,
+        "haddock_score": -93.71
+    },
+    {
+        "url": "ala_scan/6M17_K353A.pdb",
+        "name": "6M17_K353A",
+        "dataset": "ala_scan",
+        "e_vdw": -49.96,
+        "e_elec": -145.58,
+        "e_desolv": -16.21,
+        "buried_surf_area": 1623.65,
+        "haddock_score": -95.29
+    },
+    {
+        "url": "ala_scan/6M17_K68A.pdb",
+        "name": "6M17_K68A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.98,
+        "e_elec": -187.23,
+        "e_desolv": -12.05,
+        "buried_surf_area": 1746.42,
+        "haddock_score": -106.48
+    },
+    {
+        "url": "ala_scan/6M17_L29A.pdb",
+        "name": "6M17_L29A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.96,
+        "e_elec": -200.79,
+        "e_desolv": -7.35,
+        "buried_surf_area": 1766.89,
+        "haddock_score": -104.47
+    },
+    {
+        "url": "ala_scan/6M17_L351A.pdb",
+        "name": "6M17_L351A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.27,
+        "e_elec": -180.34,
+        "e_desolv": -15.78,
+        "buried_surf_area": 1731.75,
+        "haddock_score": -107.12
+    },
+    {
+        "url": "ala_scan/6M17_L39A.pdb",
+        "name": "6M17_L39A",
+        "dataset": "ala_scan",
+        "e_vdw": -50.56,
+        "e_elec": -178.45,
+        "e_desolv": -12.83,
+        "buried_surf_area": 1640.79,
+        "haddock_score": -99.08
+    },
+    {
+        "url": "ala_scan/6M17_L45A.pdb",
+        "name": "6M17_L45A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.9,
+        "e_elec": -197.83,
+        "e_desolv": -13.39,
+        "buried_surf_area": 1731.53,
+        "haddock_score": -107.86
+    },
+    {
+        "url": "ala_scan/6M17_L79A.pdb",
+        "name": "6M17_L79A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.64,
+        "e_elec": -195.26,
+        "e_desolv": 4.52,
+        "buried_surf_area": 1741.73,
+        "haddock_score": -93.17
+    },
+    {
+        "url": "ala_scan/6M17_L97A.pdb",
+        "name": "6M17_L97A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.81,
+        "e_elec": -182.65,
+        "e_desolv": -14.44,
+        "buried_surf_area": 1689.64,
+        "haddock_score": -109.78
+    },
+    {
+        "url": "ala_scan/6M17_M323A.pdb",
+        "name": "6M17_M323A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.87,
+        "e_elec": -218.61,
+        "e_desolv": -4.16,
+        "buried_surf_area": 1762.01,
+        "haddock_score": -106.75
+    },
+    {
+        "url": "ala_scan/6M17_M383A.pdb",
+        "name": "6M17_M383A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.22,
+        "e_elec": -190.95,
+        "e_desolv": -19.37,
+        "buried_surf_area": 1782.09,
+        "haddock_score": -111.78
+    },
+    {
+        "url": "ala_scan/6M17_M82A.pdb",
+        "name": "6M17_M82A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.7,
+        "e_elec": -189.27,
+        "e_desolv": 5.63,
+        "buried_surf_area": 1740.43,
+        "haddock_score": -87.92
+    },
+    {
+        "url": "ala_scan/6M17_N330A.pdb",
+        "name": "6M17_N330A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.03,
+        "e_elec": -208.69,
+        "e_desolv": -12.54,
+        "buried_surf_area": 1680.05,
+        "haddock_score": -109.31
+    },
+    {
+        "url": "ala_scan/6M17_N33A.pdb",
+        "name": "6M17_N33A",
+        "dataset": "ala_scan",
+        "e_vdw": -65.99,
+        "e_elec": -214.72,
+        "e_desolv": 2.07,
+        "buried_surf_area": 1857.99,
+        "haddock_score": -106.86
+    },
+    {
+        "url": "ala_scan/6M17_N49A.pdb",
+        "name": "6M17_N49A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.25,
+        "e_elec": -202.11,
+        "e_desolv": -17.94,
+        "buried_surf_area": 1754.44,
+        "haddock_score": -116.61
+    },
+    {
+        "url": "ala_scan/6M17_N61A.pdb",
+        "name": "6M17_N61A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.07,
+        "e_elec": -180.25,
+        "e_desolv": -12.96,
+        "buried_surf_area": 1703.23,
+        "haddock_score": -106.08
+    },
+    {
+        "url": "ala_scan/6M17_P389A.pdb",
+        "name": "6M17_P389A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.6,
+        "e_elec": -191.67,
+        "e_desolv": -23.31,
+        "buried_surf_area": 1732.61,
+        "haddock_score": -118.24
+    },
+    {
+        "url": "ala_scan/6M17_P84A.pdb",
+        "name": "6M17_P84A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.52,
+        "e_elec": -157.76,
+        "e_desolv": -15.89,
+        "buried_surf_area": 1770.5,
+        "haddock_score": -100.96
+    },
+    {
+        "url": "ala_scan/6M17_Q101A.pdb",
+        "name": "6M17_Q101A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.94,
+        "e_elec": -179.37,
+        "e_desolv": -17.98,
+        "buried_surf_area": 1766.09,
+        "haddock_score": -107.79
+    },
+    {
+        "url": "ala_scan/6M17_Q24A.pdb",
+        "name": "6M17_Q24A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.56,
+        "e_elec": -219.93,
+        "e_desolv": -0.93,
+        "buried_surf_area": 1715.63,
+        "haddock_score": -99.48
+    },
+    {
+        "url": "ala_scan/6M17_Q325A.pdb",
+        "name": "6M17_Q325A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.02,
+        "e_elec": -196.02,
+        "e_desolv": -0.02,
+        "buried_surf_area": 1701.99,
+        "haddock_score": -96.24
+    },
+    {
+        "url": "ala_scan/6M17_Q388A.pdb",
+        "name": "6M17_Q388A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.39,
+        "e_elec": -152.34,
+        "e_desolv": -13.58,
+        "buried_surf_area": 1685.78,
+        "haddock_score": -100.44
+    },
+    {
+        "url": "ala_scan/6M17_Q42A.pdb",
+        "name": "6M17_Q42A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.52,
+        "e_elec": -131.52,
+        "e_desolv": -13.26,
+        "buried_surf_area": 1704.93,
+        "haddock_score": -95.08
+    },
+    {
+        "url": "ala_scan/6M17_Q76A.pdb",
+        "name": "6M17_Q76A",
+        "dataset": "ala_scan",
+        "e_vdw": -52.47,
+        "e_elec": -194.81,
+        "e_desolv": -4.89,
+        "buried_surf_area": 1779.86,
+        "haddock_score": -96.32
+    },
+    {
+        "url": "ala_scan/6M17_Q81A.pdb",
+        "name": "6M17_Q81A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.6,
+        "e_elec": -196.19,
+        "e_desolv": -7.93,
+        "buried_surf_area": 1710.83,
+        "haddock_score": -102.77
+    },
+    {
+        "url": "ala_scan/6M17_R357A.pdb",
+        "name": "6M17_R357A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.44,
+        "e_elec": -200.51,
+        "e_desolv": -8.82,
+        "buried_surf_area": 1792.96,
+        "haddock_score": -107.36
+    },
+    {
+        "url": "ala_scan/6M17_R393A.pdb",
+        "name": "6M17_R393A",
+        "dataset": "ala_scan",
+        "e_vdw": -51.75,
+        "e_elec": -197.2,
+        "e_desolv": -16.15,
+        "buried_surf_area": 1665.14,
+        "haddock_score": -107.34
+    },
+    {
+        "url": "ala_scan/6M17_S331A.pdb",
+        "name": "6M17_S331A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.86,
+        "e_elec": -187.2,
+        "e_desolv": -15.23,
+        "buried_surf_area": 1712.69,
+        "haddock_score": -107.53
+    },
+    {
+        "url": "ala_scan/6M17_S43A.pdb",
+        "name": "6M17_S43A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.2,
+        "e_elec": -192.47,
+        "e_desolv": -9.61,
+        "buried_surf_area": 1742.68,
+        "haddock_score": -103.3
+    },
+    {
+        "url": "ala_scan/6M17_S44A.pdb",
+        "name": "6M17_S44A",
+        "dataset": "ala_scan",
+        "e_vdw": -58.23,
+        "e_elec": -201.75,
+        "e_desolv": -7.52,
+        "buried_surf_area": 1819.1,
+        "haddock_score": -106.1
+    },
+    {
+        "url": "ala_scan/6M17_S77A.pdb",
+        "name": "6M17_S77A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.75,
+        "e_elec": -210.49,
+        "e_desolv": -5.23,
+        "buried_surf_area": 1727.04,
+        "haddock_score": -102.08
+    },
+    {
+        "url": "ala_scan/6M17_T27A.pdb",
+        "name": "6M17_T27A",
+        "dataset": "ala_scan",
+        "e_vdw": -46.86,
+        "e_elec": -193.56,
+        "e_desolv": -11.26,
+        "buried_surf_area": 1687.61,
+        "haddock_score": -96.83
+    },
+    {
+        "url": "ala_scan/6M17_T324A.pdb",
+        "name": "6M17_T324A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.03,
+        "e_elec": -205.61,
+        "e_desolv": -10.08,
+        "buried_surf_area": 1820.57,
+        "haddock_score": -107.23
+    },
+    {
+        "url": "ala_scan/6M17_T78A.pdb",
+        "name": "6M17_T78A",
+        "dataset": "ala_scan",
+        "e_vdw": -55.09,
+        "e_elec": -226.5,
+        "e_desolv": -5.19,
+        "buried_surf_area": 1810.58,
+        "haddock_score": -105.58
+    },
+    {
+        "url": "ala_scan/6M17_W328A.pdb",
+        "name": "6M17_W328A",
+        "dataset": "ala_scan",
+        "e_vdw": -57.6,
+        "e_elec": -178.4,
+        "e_desolv": -20.12,
+        "buried_surf_area": 1716.76,
+        "haddock_score": -113.4
+    },
+    {
+        "url": "ala_scan/6M17_W349A.pdb",
+        "name": "6M17_W349A",
+        "dataset": "ala_scan",
+        "e_vdw": -53.49,
+        "e_elec": -192.14,
+        "e_desolv": -11.0,
+        "buried_surf_area": 1729.97,
+        "haddock_score": -102.92
+    },
+    {
+        "url": "ala_scan/6M17_W48A.pdb",
+        "name": "6M17_W48A",
+        "dataset": "ala_scan",
+        "e_vdw": -56.7,
+        "e_elec": -227.28,
+        "e_desolv": -5.09,
+        "buried_surf_area": 1765.89,
+        "haddock_score": -107.25
+    },
+    {
+        "url": "ala_scan/6M17_Y385A.pdb",
+        "name": "6M17_Y385A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.7,
+        "e_elec": -173.78,
+        "e_desolv": -6.61,
+        "buried_surf_area": 1722.79,
+        "haddock_score": -96.07
+    },
+    {
+        "url": "ala_scan/6M17_Y41A.pdb",
+        "name": "6M17_Y41A",
+        "dataset": "ala_scan",
+        "e_vdw": -54.62,
+        "e_elec": -149.73,
+        "e_desolv": -14.09,
+        "buried_surf_area": 1644.31,
+        "haddock_score": -98.66
+    },
+    {
+        "url": "ala_scan/6M17_Y83A.pdb",
+        "name": "6M17_Y83A",
+        "dataset": "ala_scan",
+        "e_vdw": -52.5,
+        "e_elec": -205.0,
+        "e_desolv": -6.02,
+        "buried_surf_area": 1705.38,
+        "haddock_score": -99.52
+    },
+    {
+        "url": "uniprot/6M0J_D350A.pdb",
+        "name": "6M0J_D350A",
+        "dataset": "uniprot",
+        "e_vdw": -60.12,
+        "e_elec": -260.22,
+        "e_desolv": -47.86,
+        "buried_surf_area": 1793.59,
+        "haddock_score": -160.02
+    },
+    {
+        "url": "uniprot/6M0J_E110P.pdb",
+        "name": "6M0J_E110P",
+        "dataset": "uniprot",
+        "e_vdw": -56.44,
+        "e_elec": -242.24,
+        "e_desolv": -55.02,
+        "buried_surf_area": 1796.27,
+        "haddock_score": -159.91
+    },
+    {
+        "url": "uniprot/6M0J_E160R.pdb",
+        "name": "6M0J_E160R",
+        "dataset": "uniprot",
+        "e_vdw": -63.88,
+        "e_elec": -222.24,
+        "e_desolv": -40.94,
+        "buried_surf_area": 1811.65,
+        "haddock_score": -149.27
+    },
+    {
+        "url": "uniprot/6M0J_E312A.pdb",
+        "name": "6M0J_E312A",
+        "dataset": "uniprot",
+        "e_vdw": -59.93,
+        "e_elec": -228.33,
+        "e_desolv": -39.47,
+        "buried_surf_area": 1812.13,
+        "haddock_score": -145.07
+    },
+    {
+        "url": "uniprot/6M0J_F603T.pdb",
+        "name": "6M0J_F603T",
+        "dataset": "uniprot",
+        "e_vdw": -61.72,
+        "e_elec": -234.88,
+        "e_desolv": -50.07,
+        "buried_surf_area": 1804.4,
+        "haddock_score": -158.77
+    },
+    {
+        "url": "uniprot/6M0J_H239Q.pdb",
+        "name": "6M0J_H239Q",
+        "dataset": "uniprot",
+        "e_vdw": -58.76,
+        "e_elec": -251.31,
+        "e_desolv": -44.93,
+        "buried_surf_area": 1798.95,
+        "haddock_score": -153.95
+    },
+    {
+        "url": "uniprot/6M0J_H345A.pdb",
+        "name": "6M0J_H345A",
+        "dataset": "uniprot",
+        "e_vdw": -61.33,
+        "e_elec": -223.86,
+        "e_desolv": -44.5,
+        "buried_surf_area": 1863.81,
+        "haddock_score": -150.6
+    },
+    {
+        "url": "uniprot/6M0J_H505A.pdb",
+        "name": "6M0J_H505A",
+        "dataset": "uniprot",
+        "e_vdw": -65.91,
+        "e_elec": -241.81,
+        "e_desolv": -41.01,
+        "buried_surf_area": 1784.0,
+        "haddock_score": -155.28
+    },
+    {
+        "url": "uniprot/6M0J_K309D.pdb",
+        "name": "6M0J_K309D",
+        "dataset": "uniprot",
+        "e_vdw": -62.64,
+        "e_elec": -244.25,
+        "e_desolv": -38.37,
+        "buried_surf_area": 1782.93,
+        "haddock_score": -149.86
+    },
+    {
+        "url": "uniprot/6M0J_K31D.pdb",
+        "name": "6M0J_K31D",
+        "dataset": "uniprot",
+        "e_vdw": -55.6,
+        "e_elec": -213.97,
+        "e_desolv": -53.59,
+        "buried_surf_area": 1740.05,
+        "haddock_score": -151.98
+    },
+    {
+        "url": "uniprot/6M0J_K353D.pdb",
+        "name": "6M0J_K353D",
+        "dataset": "uniprot",
+        "e_vdw": -56.95,
+        "e_elec": -256.17,
+        "e_desolv": -44.35,
+        "buried_surf_area": 1789.68,
+        "haddock_score": -152.53
+    },
+    {
+        "url": "uniprot/6M0J_K353H.pdb",
+        "name": "6M0J_K353H",
+        "dataset": "uniprot",
+        "e_vdw": -62.53,
+        "e_elec": -226.44,
+        "e_desolv": -53.22,
+        "buried_surf_area": 1860.04,
+        "haddock_score": -161.04
+    },
+    {
+        "url": "uniprot/6M0J_K481Q.pdb",
+        "name": "6M0J_K481Q",
+        "dataset": "uniprot",
+        "e_vdw": -64.82,
+        "e_elec": -236.45,
+        "e_desolv": -41.67,
+        "buried_surf_area": 1811.66,
+        "haddock_score": -153.78
+    },
+    {
+        "url": "uniprot/6M0J_K68D.pdb",
+        "name": "6M0J_K68D",
+        "dataset": "uniprot",
+        "e_vdw": -60.15,
+        "e_elec": -221.71,
+        "e_desolv": -38.42,
+        "buried_surf_area": 1804.05,
+        "haddock_score": -142.91
+    },
+    {
+        "url": "uniprot/6M0J_KGE465_467QDK.pdb",
+        "name": "6M0J_KGE465_467QDK",
+        "dataset": "uniprot",
+        "e_vdw": -60.79,
+        "e_elec": -187.0,
+        "e_desolv": -50.58,
+        "buried_surf_area": 1806.06,
+        "haddock_score": -148.77
+    },
+    {
+        "url": "uniprot/6M0J_L359A.pdb",
+        "name": "6M0J_L359A",
+        "dataset": "uniprot",
+        "e_vdw": -59.03,
+        "e_elec": -249.62,
+        "e_desolv": -43.93,
+        "buried_surf_area": 1835.92,
+        "haddock_score": -152.88
+    },
+    {
+        "url": "uniprot/6M0J_L359K.pdb",
+        "name": "6M0J_L359K",
+        "dataset": "uniprot",
+        "e_vdw": -59.17,
+        "e_elec": -248.13,
+        "e_desolv": -42.38,
+        "buried_surf_area": 1821.25,
+        "haddock_score": -151.18
+    },
+    {
+        "url": "uniprot/6M0J_MYP82_84NFS.pdb",
+        "name": "6M0J_MYP82_84NFS",
+        "dataset": "uniprot",
+        "e_vdw": -56.37,
+        "e_elec": -229.74,
+        "e_desolv": -43.47,
+        "buried_surf_area": 1840.27,
+        "haddock_score": -145.79
+    },
+    {
+        "url": "uniprot/6M0J_NVQ338_340DDR.pdb",
+        "name": "6M0J_NVQ338_340DDR",
+        "dataset": "uniprot",
+        "e_vdw": -57.64,
+        "e_elec": -212.34,
+        "e_desolv": -45.26,
+        "buried_surf_area": 1790.25,
+        "haddock_score": -145.37
+    },
+    {
+        "url": "uniprot/6M0J_PD135_136SM.pdb",
+        "name": "6M0J_PD135_136SM",
+        "dataset": "uniprot",
+        "e_vdw": -66.38,
+        "e_elec": -195.57,
+        "e_desolv": -46.03,
+        "buried_surf_area": 1861.17,
+        "haddock_score": -151.52
+    },
+    {
+        "url": "uniprot/6M0J_QAK24_26KAE.pdb",
+        "name": "6M0J_QAK24_26KAE",
+        "dataset": "uniprot",
+        "e_vdw": -65.3,
+        "e_elec": -205.69,
+        "e_desolv": -40.58,
+        "buried_surf_area": 1890.58,
+        "haddock_score": -147.02
+    },
+    {
+        "url": "uniprot/6M0J_R169Q.pdb",
+        "name": "6M0J_R169Q",
+        "dataset": "uniprot",
+        "e_vdw": -59.87,
+        "e_elec": -205.37,
+        "e_desolv": -57.69,
+        "buried_surf_area": 1760.21,
+        "haddock_score": -158.63
+    },
+    {
+        "url": "uniprot/6M0J_R192D.pdb",
+        "name": "6M0J_R192D",
+        "dataset": "uniprot",
+        "e_vdw": -57.29,
+        "e_elec": -209.56,
+        "e_desolv": -50.63,
+        "buried_surf_area": 1771.7,
+        "haddock_score": -149.83
+    },
+    {
+        "url": "uniprot/6M0J_R219D.pdb",
+        "name": "6M0J_R219D",
+        "dataset": "uniprot",
+        "e_vdw": -62.58,
+        "e_elec": -219.3,
+        "e_desolv": -44.77,
+        "buried_surf_area": 1816.37,
+        "haddock_score": -151.21
+    },
+    {
+        "url": "uniprot/6M0J_R273Q.pdb",
+        "name": "6M0J_R273Q",
+        "dataset": "uniprot",
+        "e_vdw": -58.27,
+        "e_elec": -264.72,
+        "e_desolv": -35.57,
+        "buried_surf_area": 1771.93,
+        "haddock_score": -146.78
+    },
+    {
+        "url": "uniprot/6M0J_R514Q.pdb",
+        "name": "6M0J_R514Q",
+        "dataset": "uniprot",
+        "e_vdw": -60.78,
+        "e_elec": -200.75,
+        "e_desolv": -46.32,
+        "buried_surf_area": 1741.68,
+        "haddock_score": -147.25
+    },
+    {
+        "url": "uniprot/6M0J_R559S.pdb",
+        "name": "6M0J_R559S",
+        "dataset": "uniprot",
+        "e_vdw": -58.95,
+        "e_elec": -198.76,
+        "e_desolv": -51.03,
+        "buried_surf_area": 1737.62,
+        "haddock_score": -149.73
+    },
+    {
+        "url": "uniprot/6M0J_SPD425_427PSN.pdb",
+        "name": "6M0J_SPD425_427PSN",
+        "dataset": "uniprot",
+        "e_vdw": -65.49,
+        "e_elec": -248.0,
+        "e_desolv": -33.46,
+        "buried_surf_area": 1870.79,
+        "haddock_score": -148.55
+    },
+    {
+        "url": "uniprot/6M0J_W271Q.pdb",
+        "name": "6M0J_W271Q",
+        "dataset": "uniprot",
+        "e_vdw": -57.94,
+        "e_elec": -210.21,
+        "e_desolv": -47.87,
+        "buried_surf_area": 1773.59,
+        "haddock_score": -147.85
+    },
+    {
+        "url": "uniprot/6M17_D350A.pdb",
+        "name": "6M17_D350A",
+        "dataset": "uniprot",
+        "e_vdw": -60.94,
+        "e_elec": -203.67,
+        "e_desolv": -3.56,
+        "buried_surf_area": 1703.88,
+        "haddock_score": -105.23
+    },
+    {
+        "url": "uniprot/6M17_E110P.pdb",
+        "name": "6M17_E110P",
+        "dataset": "uniprot",
+        "e_vdw": -53.6,
+        "e_elec": -212.57,
+        "e_desolv": 0.5,
+        "buried_surf_area": 1714.43,
+        "haddock_score": -95.61
+    },
+    {
+        "url": "uniprot/6M17_E160R.pdb",
+        "name": "6M17_E160R",
+        "dataset": "uniprot",
+        "e_vdw": -51.53,
+        "e_elec": -172.44,
+        "e_desolv": -7.58,
+        "buried_surf_area": 1678.46,
+        "haddock_score": -93.6
+    },
+    {
+        "url": "uniprot/6M17_E312A.pdb",
+        "name": "6M17_E312A",
+        "dataset": "uniprot",
+        "e_vdw": -59.79,
+        "e_elec": -194.53,
+        "e_desolv": 4.42,
+        "buried_surf_area": 1707.19,
+        "haddock_score": -94.28
+    },
+    {
+        "url": "uniprot/6M17_F603T.pdb",
+        "name": "6M17_F603T",
+        "dataset": "uniprot",
+        "e_vdw": -56.54,
+        "e_elec": -193.25,
+        "e_desolv": -2.85,
+        "buried_surf_area": 1734.47,
+        "haddock_score": -98.04
+    },
+    {
+        "url": "uniprot/6M17_H239Q.pdb",
+        "name": "6M17_H239Q",
+        "dataset": "uniprot",
+        "e_vdw": -54.41,
+        "e_elec": -183.79,
+        "e_desolv": -17.5,
+        "buried_surf_area": 1688.56,
+        "haddock_score": -108.67
+    },
+    {
+        "url": "uniprot/6M17_H345A.pdb",
+        "name": "6M17_H345A",
+        "dataset": "uniprot",
+        "e_vdw": -56.02,
+        "e_elec": -185.88,
+        "e_desolv": -6.37,
+        "buried_surf_area": 1686.85,
+        "haddock_score": -99.57
+    },
+    {
+        "url": "uniprot/6M17_H505A.pdb",
+        "name": "6M17_H505A",
+        "dataset": "uniprot",
+        "e_vdw": -55.67,
+        "e_elec": -199.91,
+        "e_desolv": -12.04,
+        "buried_surf_area": 1686.83,
+        "haddock_score": -107.69
+    },
+    {
+        "url": "uniprot/6M17_K309D.pdb",
+        "name": "6M17_K309D",
+        "dataset": "uniprot",
+        "e_vdw": -57.78,
+        "e_elec": -174.51,
+        "e_desolv": -10.67,
+        "buried_surf_area": 1762.29,
+        "haddock_score": -103.35
+    },
+    {
+        "url": "uniprot/6M17_K31D.pdb",
+        "name": "6M17_K31D",
+        "dataset": "uniprot",
+        "e_vdw": -56.3,
+        "e_elec": -184.96,
+        "e_desolv": -3.47,
+        "buried_surf_area": 1678.08,
+        "haddock_score": -96.76
+    },
+    {
+        "url": "uniprot/6M17_K353D.pdb",
+        "name": "6M17_K353D",
+        "dataset": "uniprot",
+        "e_vdw": -57.82,
+        "e_elec": -198.25,
+        "e_desolv": -14.26,
+        "buried_surf_area": 1766.92,
+        "haddock_score": -111.73
+    },
+    {
+        "url": "uniprot/6M17_K353H.pdb",
+        "name": "6M17_K353H",
+        "dataset": "uniprot",
+        "e_vdw": -56.37,
+        "e_elec": -171.72,
+        "e_desolv": -21.08,
+        "buried_surf_area": 1754.29,
+        "haddock_score": -111.79
+    },
+    {
+        "url": "uniprot/6M17_K481Q.pdb",
+        "name": "6M17_K481Q",
+        "dataset": "uniprot",
+        "e_vdw": -56.6,
+        "e_elec": -212.12,
+        "e_desolv": -1.97,
+        "buried_surf_area": 1777.34,
+        "haddock_score": -100.99
+    },
+    {
+        "url": "uniprot/6M17_K68D.pdb",
+        "name": "6M17_K68D",
+        "dataset": "uniprot",
+        "e_vdw": -55.21,
+        "e_elec": -211.96,
+        "e_desolv": 2.73,
+        "buried_surf_area": 1784.51,
+        "haddock_score": -94.87
+    },
+    {
+        "url": "uniprot/6M17_KGE465_467QDK.pdb",
+        "name": "6M17_KGE465_467QDK",
+        "dataset": "uniprot",
+        "e_vdw": -53.31,
+        "e_elec": -212.55,
+        "e_desolv": 8.9,
+        "buried_surf_area": 1801.71,
+        "haddock_score": -86.92
+    },
+    {
+        "url": "uniprot/6M17_L359A.pdb",
+        "name": "6M17_L359A",
+        "dataset": "uniprot",
+        "e_vdw": -52.88,
+        "e_elec": -177.59,
+        "e_desolv": -8.5,
+        "buried_surf_area": 1675.58,
+        "haddock_score": -96.9
+    },
+    {
+        "url": "uniprot/6M17_L359K.pdb",
+        "name": "6M17_L359K",
+        "dataset": "uniprot",
+        "e_vdw": -52.97,
+        "e_elec": -188.97,
+        "e_desolv": -11.78,
+        "buried_surf_area": 1781.37,
+        "haddock_score": -102.54
+    },
+    {
+        "url": "uniprot/6M17_MYP82_84NFS.pdb",
+        "name": "6M17_MYP82_84NFS",
+        "dataset": "uniprot",
+        "e_vdw": -53.08,
+        "e_elec": -163.9,
+        "e_desolv": -22.4,
+        "buried_surf_area": 1690.76,
+        "haddock_score": -108.26
+    },
+    {
+        "url": "uniprot/6M17_NVQ338_340DDR.pdb",
+        "name": "6M17_NVQ338_340DDR",
+        "dataset": "uniprot",
+        "e_vdw": -57.27,
+        "e_elec": -201.22,
+        "e_desolv": 9.36,
+        "buried_surf_area": 1714.26,
+        "haddock_score": -88.15
+    },
+    {
+        "url": "uniprot/6M17_PD135_136SM.pdb",
+        "name": "6M17_PD135_136SM",
+        "dataset": "uniprot",
+        "e_vdw": -54.15,
+        "e_elec": -200.81,
+        "e_desolv": -13.73,
+        "buried_surf_area": 1745.24,
+        "haddock_score": -108.04
+    },
+    {
+        "url": "uniprot/6M17_QAK24_26KAE.pdb",
+        "name": "6M17_QAK24_26KAE",
+        "dataset": "uniprot",
+        "e_vdw": -54.84,
+        "e_elec": -218.97,
+        "e_desolv": -3.37,
+        "buried_surf_area": 1765.2,
+        "haddock_score": -102.0
+    },
+    {
+        "url": "uniprot/6M17_R169Q.pdb",
+        "name": "6M17_R169Q",
+        "dataset": "uniprot",
+        "e_vdw": -56.58,
+        "e_elec": -239.99,
+        "e_desolv": -0.5,
+        "buried_surf_area": 1813.99,
+        "haddock_score": -105.08
+    },
+    {
+        "url": "uniprot/6M17_R192D.pdb",
+        "name": "6M17_R192D",
+        "dataset": "uniprot",
+        "e_vdw": -58.21,
+        "e_elec": -196.23,
+        "e_desolv": -20.82,
+        "buried_surf_area": 1773.32,
+        "haddock_score": -118.28
+    },
+    {
+        "url": "uniprot/6M17_R219D.pdb",
+        "name": "6M17_R219D",
+        "dataset": "uniprot",
+        "e_vdw": -59.33,
+        "e_elec": -202.18,
+        "e_desolv": 0.04,
+        "buried_surf_area": 1758.69,
+        "haddock_score": -99.73
+    },
+    {
+        "url": "uniprot/6M17_R273Q.pdb",
+        "name": "6M17_R273Q",
+        "dataset": "uniprot",
+        "e_vdw": -58.64,
+        "e_elec": -185.71,
+        "e_desolv": -13.18,
+        "buried_surf_area": 1742.54,
+        "haddock_score": -108.96
+    },
+    {
+        "url": "uniprot/6M17_R514Q.pdb",
+        "name": "6M17_R514Q",
+        "dataset": "uniprot",
+        "e_vdw": -55.84,
+        "e_elec": -191.06,
+        "e_desolv": 3.95,
+        "buried_surf_area": 1791.75,
+        "haddock_score": -90.1
+    },
+    {
+        "url": "uniprot/6M17_R559S.pdb",
+        "name": "6M17_R559S",
+        "dataset": "uniprot",
+        "e_vdw": -55.49,
+        "e_elec": -201.68,
+        "e_desolv": -8.37,
+        "buried_surf_area": 1741.57,
+        "haddock_score": -104.2
+    },
+    {
+        "url": "uniprot/6M17_SPD425_427PSN.pdb",
+        "name": "6M17_SPD425_427PSN",
+        "dataset": "uniprot",
+        "e_vdw": -55.49,
+        "e_elec": -187.57,
+        "e_desolv": -10.0,
+        "buried_surf_area": 1734.8,
+        "haddock_score": -103.0
+    },
+    {
+        "url": "uniprot/6M17_W271Q.pdb",
+        "name": "6M17_W271Q",
+        "dataset": "uniprot",
+        "e_vdw": -56.53,
+        "e_elec": -205.27,
+        "e_desolv": -1.76,
+        "buried_surf_area": 1752.55,
+        "haddock_score": -99.34
+    },
+    {
+        "url": "variants/6M0J_A191P.pdb",
+        "name": "6M0J_A191P",
+        "dataset": "variants",
+        "e_vdw": -61.07,
+        "e_elec": -205.13,
+        "e_desolv": -42.3,
+        "buried_surf_area": 1803.31,
+        "haddock_score": -144.4
+    },
+    {
+        "url": "variants/6M0J_A251T.pdb",
+        "name": "6M0J_A251T",
+        "dataset": "variants",
+        "e_vdw": -62.41,
+        "e_elec": -228.57,
+        "e_desolv": -40.13,
+        "buried_surf_area": 1865.43,
+        "haddock_score": -148.25
+    },
+    {
+        "url": "variants/6M0J_A251Y.pdb",
+        "name": "6M0J_A251Y",
+        "dataset": "variants",
+        "e_vdw": -59.15,
+        "e_elec": -252.59,
+        "e_desolv": -33.04,
+        "buried_surf_area": 1831.93,
+        "haddock_score": -142.71
+    },
+    {
+        "url": "variants/6M0J_A501T.pdb",
+        "name": "6M0J_A501T",
+        "dataset": "variants",
+        "e_vdw": -60.59,
+        "e_elec": -216.53,
+        "e_desolv": -61.13,
+        "buried_surf_area": 1870.44,
+        "haddock_score": -165.03
+    },
+    {
+        "url": "variants/6M0J_A532T.pdb",
+        "name": "6M0J_A532T",
+        "dataset": "variants",
+        "e_vdw": -62.8,
+        "e_elec": -237.89,
+        "e_desolv": -35.43,
+        "buried_surf_area": 1777.01,
+        "haddock_score": -145.81
+    },
+    {
+        "url": "variants/6M0J_A614S.pdb",
+        "name": "6M0J_A614S",
+        "dataset": "variants",
+        "e_vdw": -57.99,
+        "e_elec": -254.77,
+        "e_desolv": -37.67,
+        "buried_surf_area": 1851.98,
+        "haddock_score": -146.61
+    },
+    {
+        "url": "variants/6M0J_A614T.pdb",
+        "name": "6M0J_A614T",
+        "dataset": "variants",
+        "e_vdw": -62.66,
+        "e_elec": -227.73,
+        "e_desolv": -44.97,
+        "buried_surf_area": 1808.05,
+        "haddock_score": -153.18
+    },
+    {
+        "url": "variants/6M0J_A99T.pdb",
+        "name": "6M0J_A99T",
+        "dataset": "variants",
+        "e_vdw": -60.13,
+        "e_elec": -236.5,
+        "e_desolv": -42.02,
+        "buried_surf_area": 1766.61,
+        "haddock_score": -149.45
+    },
+    {
+        "url": "variants/6M0J_C141Y.pdb",
+        "name": "6M0J_C141Y",
+        "dataset": "variants",
+        "e_vdw": -62.05,
+        "e_elec": -209.7,
+        "e_desolv": -45.25,
+        "buried_surf_area": 1772.56,
+        "haddock_score": -149.24
+    },
+    {
+        "url": "variants/6M0J_D206G.pdb",
+        "name": "6M0J_D206G",
+        "dataset": "variants",
+        "e_vdw": -59.01,
+        "e_elec": -227.01,
+        "e_desolv": -44.96,
+        "buried_surf_area": 1858.49,
+        "haddock_score": -149.37
+    },
+    {
+        "url": "variants/6M0J_D216E.pdb",
+        "name": "6M0J_D216E",
+        "dataset": "variants",
+        "e_vdw": -64.21,
+        "e_elec": -232.5,
+        "e_desolv": -39.29,
+        "buried_surf_area": 1789.41,
+        "haddock_score": -150.0
+    },
+    {
+        "url": "variants/6M0J_D292V.pdb",
+        "name": "6M0J_D292V",
+        "dataset": "variants",
+        "e_vdw": -62.48,
+        "e_elec": -221.76,
+        "e_desolv": -44.21,
+        "buried_surf_area": 1824.43,
+        "haddock_score": -151.04
+    },
+    {
+        "url": "variants/6M0J_D295G.pdb",
+        "name": "6M0J_D295G",
+        "dataset": "variants",
+        "e_vdw": -62.14,
+        "e_elec": -252.56,
+        "e_desolv": -37.62,
+        "buried_surf_area": 1816.91,
+        "haddock_score": -150.27
+    },
+    {
+        "url": "variants/6M0J_D299G.pdb",
+        "name": "6M0J_D299G",
+        "dataset": "variants",
+        "e_vdw": -58.0,
+        "e_elec": -226.96,
+        "e_desolv": -46.94,
+        "buried_surf_area": 1827.95,
+        "haddock_score": -150.33
+    },
+    {
+        "url": "variants/6M0J_D368N.pdb",
+        "name": "6M0J_D368N",
+        "dataset": "variants",
+        "e_vdw": -54.76,
+        "e_elec": -248.94,
+        "e_desolv": -41.84,
+        "buried_surf_area": 1775.04,
+        "haddock_score": -146.39
+    },
+    {
+        "url": "variants/6M0J_D427Y.pdb",
+        "name": "6M0J_D427Y",
+        "dataset": "variants",
+        "e_vdw": -64.19,
+        "e_elec": -218.9,
+        "e_desolv": -42.06,
+        "buried_surf_area": 1857.21,
+        "haddock_score": -150.03
+    },
+    {
+        "url": "variants/6M0J_D494V.pdb",
+        "name": "6M0J_D494V",
+        "dataset": "variants",
+        "e_vdw": -60.92,
+        "e_elec": -244.06,
+        "e_desolv": -32.11,
+        "buried_surf_area": 1839.49,
+        "haddock_score": -141.84
+    },
+    {
+        "url": "variants/6M0J_D597E.pdb",
+        "name": "6M0J_D597E",
+        "dataset": "variants",
+        "e_vdw": -60.82,
+        "e_elec": -243.27,
+        "e_desolv": -42.03,
+        "buried_surf_area": 1780.96,
+        "haddock_score": -151.5
+    },
+    {
+        "url": "variants/6M0J_D609N.pdb",
+        "name": "6M0J_D609N",
+        "dataset": "variants",
+        "e_vdw": -60.59,
+        "e_elec": -236.29,
+        "e_desolv": -43.29,
+        "buried_surf_area": 1857.31,
+        "haddock_score": -151.14
+    },
+    {
+        "url": "variants/6M0J_E171D.pdb",
+        "name": "6M0J_E171D",
+        "dataset": "variants",
+        "e_vdw": -56.38,
+        "e_elec": -252.53,
+        "e_desolv": -37.71,
+        "buried_surf_area": 1798.91,
+        "haddock_score": -144.6
+    },
+    {
+        "url": "variants/6M0J_E23K.pdb",
+        "name": "6M0J_E23K",
+        "dataset": "variants",
+        "e_vdw": -64.0,
+        "e_elec": -237.02,
+        "e_desolv": -37.85,
+        "buried_surf_area": 1850.25,
+        "haddock_score": -149.25
+    },
+    {
+        "url": "variants/6M0J_E312K.pdb",
+        "name": "6M0J_E312K",
+        "dataset": "variants",
+        "e_vdw": -61.6,
+        "e_elec": -246.9,
+        "e_desolv": -53.73,
+        "buried_surf_area": 1785.34,
+        "haddock_score": -164.71
+    },
+    {
+        "url": "variants/6M0J_E329G.pdb",
+        "name": "6M0J_E329G",
+        "dataset": "variants",
+        "e_vdw": -64.43,
+        "e_elec": -202.87,
+        "e_desolv": -40.53,
+        "buried_surf_area": 1797.03,
+        "haddock_score": -145.53
+    },
+    {
+        "url": "variants/6M0J_E375D.pdb",
+        "name": "6M0J_E375D",
+        "dataset": "variants",
+        "e_vdw": -64.05,
+        "e_elec": -235.51,
+        "e_desolv": -44.16,
+        "buried_surf_area": 1810.49,
+        "haddock_score": -155.31
+    },
+    {
+        "url": "variants/6M0J_E37K.pdb",
+        "name": "6M0J_E37K",
+        "dataset": "variants",
+        "e_vdw": -60.08,
+        "e_elec": -239.34,
+        "e_desolv": -49.91,
+        "buried_surf_area": 1775.33,
+        "haddock_score": -157.86
+    },
+    {
+        "url": "variants/6M0J_E467K.pdb",
+        "name": "6M0J_E467K",
+        "dataset": "variants",
+        "e_vdw": -59.6,
+        "e_elec": -249.57,
+        "e_desolv": -51.76,
+        "buried_surf_area": 1825.12,
+        "haddock_score": -161.27
+    },
+    {
+        "url": "variants/6M0J_E483D.pdb",
+        "name": "6M0J_E483D",
+        "dataset": "variants",
+        "e_vdw": -59.44,
+        "e_elec": -240.97,
+        "e_desolv": -45.7,
+        "buried_surf_area": 1819.26,
+        "haddock_score": -153.33
+    },
+    {
+        "url": "variants/6M0J_F400L.pdb",
+        "name": "6M0J_F400L",
+        "dataset": "variants",
+        "e_vdw": -60.55,
+        "e_elec": -266.05,
+        "e_desolv": -37.44,
+        "buried_surf_area": 1850.45,
+        "haddock_score": -151.2
+    },
+    {
+        "url": "variants/6M0J_F40L.pdb",
+        "name": "6M0J_F40L",
+        "dataset": "variants",
+        "e_vdw": -57.78,
+        "e_elec": -252.68,
+        "e_desolv": -40.44,
+        "buried_surf_area": 1754.98,
+        "haddock_score": -148.76
+    },
+    {
+        "url": "variants/6M0J_F504I.pdb",
+        "name": "6M0J_F504I",
+        "dataset": "variants",
+        "e_vdw": -59.95,
+        "e_elec": -247.11,
+        "e_desolv": -49.76,
+        "buried_surf_area": 1762.08,
+        "haddock_score": -159.13
+    },
+    {
+        "url": "variants/6M0J_F504L.pdb",
+        "name": "6M0J_F504L",
+        "dataset": "variants",
+        "e_vdw": -61.14,
+        "e_elec": -238.99,
+        "e_desolv": -34.75,
+        "buried_surf_area": 1797.91,
+        "haddock_score": -143.69
+    },
+    {
+        "url": "variants/6M0J_F523L.pdb",
+        "name": "6M0J_F523L",
+        "dataset": "variants",
+        "e_vdw": -59.62,
+        "e_elec": -249.53,
+        "e_desolv": -44.95,
+        "buried_surf_area": 1811.85,
+        "haddock_score": -154.48
+    },
+    {
+        "url": "variants/6M0J_G211R.pdb",
+        "name": "6M0J_G211R",
+        "dataset": "variants",
+        "e_vdw": -60.98,
+        "e_elec": -205.19,
+        "e_desolv": -46.18,
+        "buried_surf_area": 1826.23,
+        "haddock_score": -148.2
+    },
+    {
+        "url": "variants/6M0J_G220S.pdb",
+        "name": "6M0J_G220S",
+        "dataset": "variants",
+        "e_vdw": -61.45,
+        "e_elec": -245.06,
+        "e_desolv": -52.25,
+        "buried_surf_area": 1901.74,
+        "haddock_score": -162.71
+    },
+    {
+        "url": "variants/6M0J_G326E.pdb",
+        "name": "6M0J_G326E",
+        "dataset": "variants",
+        "e_vdw": -62.36,
+        "e_elec": -248.12,
+        "e_desolv": -53.13,
+        "buried_surf_area": 1842.37,
+        "haddock_score": -165.11
+    },
+    {
+        "url": "variants/6M0J_G352V.pdb",
+        "name": "6M0J_G352V",
+        "dataset": "variants",
+        "e_vdw": -58.09,
+        "e_elec": -257.24,
+        "e_desolv": -37.42,
+        "buried_surf_area": 1849.42,
+        "haddock_score": -146.96
+    },
+    {
+        "url": "variants/6M0J_G377V.pdb",
+        "name": "6M0J_G377V",
+        "dataset": "variants",
+        "e_vdw": -61.97,
+        "e_elec": -231.34,
+        "e_desolv": -36.33,
+        "buried_surf_area": 1800.49,
+        "haddock_score": -144.57
+    },
+    {
+        "url": "variants/6M0J_G448E.pdb",
+        "name": "6M0J_G448E",
+        "dataset": "variants",
+        "e_vdw": -57.94,
+        "e_elec": -253.75,
+        "e_desolv": -40.89,
+        "buried_surf_area": 1822.71,
+        "haddock_score": -149.58
+    },
+    {
+        "url": "variants/6M0J_H195Y.pdb",
+        "name": "6M0J_H195Y",
+        "dataset": "variants",
+        "e_vdw": -61.11,
+        "e_elec": -213.89,
+        "e_desolv": -53.01,
+        "buried_surf_area": 1788.88,
+        "haddock_score": -156.9
+    },
+    {
+        "url": "variants/6M0J_H378R.pdb",
+        "name": "6M0J_H378R",
+        "dataset": "variants",
+        "e_vdw": -57.01,
+        "e_elec": -223.5,
+        "e_desolv": -42.73,
+        "buried_surf_area": 1799.19,
+        "haddock_score": -144.44
+    },
+    {
+        "url": "variants/6M0J_I291K.pdb",
+        "name": "6M0J_I291K",
+        "dataset": "variants",
+        "e_vdw": -59.27,
+        "e_elec": -249.53,
+        "e_desolv": -37.8,
+        "buried_surf_area": 1763.41,
+        "haddock_score": -146.98
+    },
+    {
+        "url": "variants/6M0J_I446M.pdb",
+        "name": "6M0J_I446M",
+        "dataset": "variants",
+        "e_vdw": -59.41,
+        "e_elec": -227.94,
+        "e_desolv": -41.36,
+        "buried_surf_area": 1839.64,
+        "haddock_score": -146.36
+    },
+    {
+        "url": "variants/6M0J_I468V.pdb",
+        "name": "6M0J_I468V",
+        "dataset": "variants",
+        "e_vdw": -59.46,
+        "e_elec": -225.67,
+        "e_desolv": -50.07,
+        "buried_surf_area": 1808.52,
+        "haddock_score": -154.66
+    },
+    {
+        "url": "variants/6M0J_K26R.pdb",
+        "name": "6M0J_K26R",
+        "dataset": "variants",
+        "e_vdw": -52.29,
+        "e_elec": -257.49,
+        "e_desolv": -47.19,
+        "buried_surf_area": 1777.06,
+        "haddock_score": -150.98
+    },
+    {
+        "url": "variants/6M0J_K288T.pdb",
+        "name": "6M0J_K288T",
+        "dataset": "variants",
+        "e_vdw": -60.61,
+        "e_elec": -212.66,
+        "e_desolv": -51.14,
+        "buried_surf_area": 1816.12,
+        "haddock_score": -154.28
+    },
+    {
+        "url": "variants/6M0J_K341R.pdb",
+        "name": "6M0J_K341R",
+        "dataset": "variants",
+        "e_vdw": -64.87,
+        "e_elec": -194.39,
+        "e_desolv": -43.28,
+        "buried_surf_area": 1809.98,
+        "haddock_score": -147.03
+    },
+    {
+        "url": "variants/6M0J_K541I.pdb",
+        "name": "6M0J_K541I",
+        "dataset": "variants",
+        "e_vdw": -58.6,
+        "e_elec": -255.36,
+        "e_desolv": -45.14,
+        "buried_surf_area": 1807.92,
+        "haddock_score": -154.81
+    },
+    {
+        "url": "variants/6M0J_K553T.pdb",
+        "name": "6M0J_K553T",
+        "dataset": "variants",
+        "e_vdw": -63.82,
+        "e_elec": -220.41,
+        "e_desolv": -39.59,
+        "buried_surf_area": 1821.6,
+        "haddock_score": -147.49
+    },
+    {
+        "url": "variants/6M0J_L410V.pdb",
+        "name": "6M0J_L410V",
+        "dataset": "variants",
+        "e_vdw": -62.11,
+        "e_elec": -189.09,
+        "e_desolv": -51.5,
+        "buried_surf_area": 1775.76,
+        "haddock_score": -151.43
+    },
+    {
+        "url": "variants/6M0J_L418S.pdb",
+        "name": "6M0J_L418S",
+        "dataset": "variants",
+        "e_vdw": -56.91,
+        "e_elec": -246.01,
+        "e_desolv": -41.05,
+        "buried_surf_area": 1760.64,
+        "haddock_score": -147.16
+    },
+    {
+        "url": "variants/6M0J_L570S.pdb",
+        "name": "6M0J_L570S",
+        "dataset": "variants",
+        "e_vdw": -62.94,
+        "e_elec": -223.83,
+        "e_desolv": -39.35,
+        "buried_surf_area": 1784.24,
+        "haddock_score": -147.06
+    },
+    {
+        "url": "variants/6M0J_L595V.pdb",
+        "name": "6M0J_L595V",
+        "dataset": "variants",
+        "e_vdw": -62.08,
+        "e_elec": -245.19,
+        "e_desolv": -40.31,
+        "buried_surf_area": 1786.71,
+        "haddock_score": -151.43
+    },
+    {
+        "url": "variants/6M0J_M270V.pdb",
+        "name": "6M0J_M270V",
+        "dataset": "variants",
+        "e_vdw": -59.74,
+        "e_elec": -240.1,
+        "e_desolv": -36.8,
+        "buried_surf_area": 1857.44,
+        "haddock_score": -144.56
+    },
+    {
+        "url": "variants/6M0J_M297I.pdb",
+        "name": "6M0J_M297I",
+        "dataset": "variants",
+        "e_vdw": -59.37,
+        "e_elec": -254.12,
+        "e_desolv": -44.11,
+        "buried_surf_area": 1813.75,
+        "haddock_score": -154.3
+    },
+    {
+        "url": "variants/6M0J_M297L.pdb",
+        "name": "6M0J_M297L",
+        "dataset": "variants",
+        "e_vdw": -60.58,
+        "e_elec": -224.73,
+        "e_desolv": -38.21,
+        "buried_surf_area": 1810.3,
+        "haddock_score": -143.74
+    },
+    {
+        "url": "variants/6M0J_M332L.pdb",
+        "name": "6M0J_M332L",
+        "dataset": "variants",
+        "e_vdw": -64.07,
+        "e_elec": -248.79,
+        "e_desolv": -36.06,
+        "buried_surf_area": 1821.3,
+        "haddock_score": -149.89
+    },
+    {
+        "url": "variants/6M0J_M376T.pdb",
+        "name": "6M0J_M376T",
+        "dataset": "variants",
+        "e_vdw": -57.38,
+        "e_elec": -243.29,
+        "e_desolv": -47.03,
+        "buried_surf_area": 1797.67,
+        "haddock_score": -153.07
+    },
+    {
+        "url": "variants/6M0J_M383T.pdb",
+        "name": "6M0J_M383T",
+        "dataset": "variants",
+        "e_vdw": -62.68,
+        "e_elec": -219.41,
+        "e_desolv": -40.94,
+        "buried_surf_area": 1847.0,
+        "haddock_score": -147.5
+    },
+    {
+        "url": "variants/6M0J_M462I.pdb",
+        "name": "6M0J_M462I",
+        "dataset": "variants",
+        "e_vdw": -58.22,
+        "e_elec": -251.52,
+        "e_desolv": -42.54,
+        "buried_surf_area": 1813.38,
+        "haddock_score": -151.06
+    },
+    {
+        "url": "variants/6M0J_M480V.pdb",
+        "name": "6M0J_M480V",
+        "dataset": "variants",
+        "e_vdw": -58.83,
+        "e_elec": -227.98,
+        "e_desolv": -49.16,
+        "buried_surf_area": 1840.54,
+        "haddock_score": -153.59
+    },
+    {
+        "url": "variants/6M0J_M82I.pdb",
+        "name": "6M0J_M82I",
+        "dataset": "variants",
+        "e_vdw": -63.94,
+        "e_elec": -219.2,
+        "e_desolv": -41.05,
+        "buried_surf_area": 1804.13,
+        "haddock_score": -148.83
+    },
+    {
+        "url": "variants/6M0J_N103H.pdb",
+        "name": "6M0J_N103H",
+        "dataset": "variants",
+        "e_vdw": -63.35,
+        "e_elec": -243.99,
+        "e_desolv": -35.54,
+        "buried_surf_area": 1775.42,
+        "haddock_score": -147.69
+    },
+    {
+        "url": "variants/6M0J_N154K.pdb",
+        "name": "6M0J_N154K",
+        "dataset": "variants",
+        "e_vdw": -61.68,
+        "e_elec": -202.27,
+        "e_desolv": -46.19,
+        "buried_surf_area": 1852.42,
+        "haddock_score": -148.32
+    },
+    {
+        "url": "variants/6M0J_N159S.pdb",
+        "name": "6M0J_N159S",
+        "dataset": "variants",
+        "e_vdw": -62.07,
+        "e_elec": -234.42,
+        "e_desolv": -40.74,
+        "buried_surf_area": 1826.69,
+        "haddock_score": -149.69
+    },
+    {
+        "url": "variants/6M0J_N338S.pdb",
+        "name": "6M0J_N338S",
+        "dataset": "variants",
+        "e_vdw": -57.5,
+        "e_elec": -234.35,
+        "e_desolv": -46.71,
+        "buried_surf_area": 1769.84,
+        "haddock_score": -151.08
+    },
+    {
+        "url": "variants/6M0J_N397D.pdb",
+        "name": "6M0J_N397D",
+        "dataset": "variants",
+        "e_vdw": -57.65,
+        "e_elec": -224.98,
+        "e_desolv": -40.24,
+        "buried_surf_area": 1820.72,
+        "haddock_score": -142.89
+    },
+    {
+        "url": "variants/6M0J_N437S.pdb",
+        "name": "6M0J_N437S",
+        "dataset": "variants",
+        "e_vdw": -64.21,
+        "e_elec": -233.07,
+        "e_desolv": -42.63,
+        "buried_surf_area": 1827.07,
+        "haddock_score": -153.45
+    },
+    {
+        "url": "variants/6M0J_N546D.pdb",
+        "name": "6M0J_N546D",
+        "dataset": "variants",
+        "e_vdw": -61.66,
+        "e_elec": -220.69,
+        "e_desolv": -40.56,
+        "buried_surf_area": 1840.61,
+        "haddock_score": -146.36
+    },
+    {
+        "url": "variants/6M0J_N586N.pdb",
+        "name": "6M0J_N586N",
+        "dataset": "variants",
+        "e_vdw": -59.38,
+        "e_elec": -217.3,
+        "e_desolv": -40.2,
+        "buried_surf_area": 1781.48,
+        "haddock_score": -143.04
+    },
+    {
+        "url": "variants/6M0J_N586Y.pdb",
+        "name": "6M0J_N586Y",
+        "dataset": "variants",
+        "e_vdw": -64.34,
+        "e_elec": -235.08,
+        "e_desolv": -39.63,
+        "buried_surf_area": 1851.54,
+        "haddock_score": -150.99
+    },
+    {
+        "url": "variants/6M0J_N58D.pdb",
+        "name": "6M0J_N58D",
+        "dataset": "variants",
+        "e_vdw": -58.87,
+        "e_elec": -249.77,
+        "e_desolv": -39.03,
+        "buried_surf_area": 1847.52,
+        "haddock_score": -147.85
+    },
+    {
+        "url": "variants/6M0J_N58H.pdb",
+        "name": "6M0J_N58H",
+        "dataset": "variants",
+        "e_vdw": -61.74,
+        "e_elec": -217.76,
+        "e_desolv": -55.11,
+        "buried_surf_area": 1774.58,
+        "haddock_score": -160.4
+    },
+    {
+        "url": "variants/6M0J_N64K.pdb",
+        "name": "6M0J_N64K",
+        "dataset": "variants",
+        "e_vdw": -57.87,
+        "e_elec": -214.84,
+        "e_desolv": -49.69,
+        "buried_surf_area": 1786.85,
+        "haddock_score": -150.53
+    },
+    {
+        "url": "variants/6M0J_P138L.pdb",
+        "name": "6M0J_P138L",
+        "dataset": "variants",
+        "e_vdw": -60.24,
+        "e_elec": -254.93,
+        "e_desolv": -37.41,
+        "buried_surf_area": 1851.17,
+        "haddock_score": -148.64
+    },
+    {
+        "url": "variants/6M0J_P235R.pdb",
+        "name": "6M0J_P235R",
+        "dataset": "variants",
+        "e_vdw": -64.12,
+        "e_elec": -242.47,
+        "e_desolv": -40.29,
+        "buried_surf_area": 1818.61,
+        "haddock_score": -152.9
+    },
+    {
+        "url": "variants/6M0J_P263S.pdb",
+        "name": "6M0J_P263S",
+        "dataset": "variants",
+        "e_vdw": -60.46,
+        "e_elec": -236.52,
+        "e_desolv": -45.28,
+        "buried_surf_area": 1815.9,
+        "haddock_score": -153.04
+    },
+    {
+        "url": "variants/6M0J_P389H.pdb",
+        "name": "6M0J_P389H",
+        "dataset": "variants",
+        "e_vdw": -61.45,
+        "e_elec": -256.77,
+        "e_desolv": -37.41,
+        "buried_surf_area": 1842.33,
+        "haddock_score": -150.21
+    },
+    {
+        "url": "variants/6M0J_P492S.pdb",
+        "name": "6M0J_P492S",
+        "dataset": "variants",
+        "e_vdw": -59.76,
+        "e_elec": -235.5,
+        "e_desolv": -44.76,
+        "buried_surf_area": 1802.62,
+        "haddock_score": -151.62
+    },
+    {
+        "url": "variants/6M0J_Q388L.pdb",
+        "name": "6M0J_Q388L",
+        "dataset": "variants",
+        "e_vdw": -66.17,
+        "e_elec": -255.44,
+        "e_desolv": -32.79,
+        "buried_surf_area": 1858.26,
+        "haddock_score": -150.05
+    },
+    {
+        "url": "variants/6M0J_Q86R.pdb",
+        "name": "6M0J_Q86R",
+        "dataset": "variants",
+        "e_vdw": -60.15,
+        "e_elec": -214.99,
+        "e_desolv": -56.45,
+        "buried_surf_area": 1841.29,
+        "haddock_score": -159.6
+    },
+    {
+        "url": "variants/6M0J_R115Q.pdb",
+        "name": "6M0J_R115Q",
+        "dataset": "variants",
+        "e_vdw": -59.93,
+        "e_elec": -231.22,
+        "e_desolv": -45.24,
+        "buried_surf_area": 1827.7,
+        "haddock_score": -151.41
+    },
+    {
+        "url": "variants/6M0J_R115W.pdb",
+        "name": "6M0J_R115W",
+        "dataset": "variants",
+        "e_vdw": -58.03,
+        "e_elec": -254.55,
+        "e_desolv": -41.25,
+        "buried_surf_area": 1874.94,
+        "haddock_score": -150.19
+    },
+    {
+        "url": "variants/6M0J_R219C.pdb",
+        "name": "6M0J_R219C",
+        "dataset": "variants",
+        "e_vdw": -57.84,
+        "e_elec": -250.85,
+        "e_desolv": -39.41,
+        "buried_surf_area": 1789.14,
+        "haddock_score": -147.42
+    },
+    {
+        "url": "variants/6M0J_R219H.pdb",
+        "name": "6M0J_R219H",
+        "dataset": "variants",
+        "e_vdw": -59.28,
+        "e_elec": -215.49,
+        "e_desolv": -46.6,
+        "buried_surf_area": 1807.05,
+        "haddock_score": -148.98
+    },
+    {
+        "url": "variants/6M0J_R482Q.pdb",
+        "name": "6M0J_R482Q",
+        "dataset": "variants",
+        "e_vdw": -66.1,
+        "e_elec": -225.77,
+        "e_desolv": -44.97,
+        "buried_surf_area": 1800.49,
+        "haddock_score": -156.22
+    },
+    {
+        "url": "variants/6M0J_R514G.pdb",
+        "name": "6M0J_R514G",
+        "dataset": "variants",
+        "e_vdw": -64.68,
+        "e_elec": -232.23,
+        "e_desolv": -39.17,
+        "buried_surf_area": 1753.14,
+        "haddock_score": -150.3
+    },
+    {
+        "url": "variants/6M0J_R559S.pdb",
+        "name": "6M0J_R559S",
+        "dataset": "variants",
+        "e_vdw": -58.95,
+        "e_elec": -198.76,
+        "e_desolv": -51.03,
+        "buried_surf_area": 1737.62,
+        "haddock_score": -149.73
+    },
+    {
+        "url": "variants/6M0J_R582K.pdb",
+        "name": "6M0J_R582K",
+        "dataset": "variants",
+        "e_vdw": -59.89,
+        "e_elec": -239.21,
+        "e_desolv": -49.22,
+        "buried_surf_area": 1811.31,
+        "haddock_score": -156.95
+    },
+    {
+        "url": "variants/6M0J_R582S.pdb",
+        "name": "6M0J_R582S",
+        "dataset": "variants",
+        "e_vdw": -63.13,
+        "e_elec": -202.4,
+        "e_desolv": -44.47,
+        "buried_surf_area": 1792.8,
+        "haddock_score": -148.08
+    },
+    {
+        "url": "variants/6M0J_S19P.pdb",
+        "name": "6M0J_S19P",
+        "dataset": "variants",
+        "e_vdw": -59.74,
+        "e_elec": -242.57,
+        "e_desolv": -41.39,
+        "buried_surf_area": 1747.45,
+        "haddock_score": -149.64
+    },
+    {
+        "url": "variants/6M0J_S257N.pdb",
+        "name": "6M0J_S257N",
+        "dataset": "variants",
+        "e_vdw": -62.37,
+        "e_elec": -232.47,
+        "e_desolv": -41.39,
+        "buried_surf_area": 1854.8,
+        "haddock_score": -150.25
+    },
+    {
+        "url": "variants/6M0J_S420C.pdb",
+        "name": "6M0J_S420C",
+        "dataset": "variants",
+        "e_vdw": -61.0,
+        "e_elec": -230.63,
+        "e_desolv": -34.9,
+        "buried_surf_area": 1822.86,
+        "haddock_score": -142.03
+    },
+    {
+        "url": "variants/6M0J_S420P.pdb",
+        "name": "6M0J_S420P",
+        "dataset": "variants",
+        "e_vdw": -63.19,
+        "e_elec": -256.97,
+        "e_desolv": -40.42,
+        "buried_surf_area": 1808.68,
+        "haddock_score": -155.0
+    },
+    {
+        "url": "variants/6M0J_S47P.pdb",
+        "name": "6M0J_S47P",
+        "dataset": "variants",
+        "e_vdw": -59.41,
+        "e_elec": -243.05,
+        "e_desolv": -36.38,
+        "buried_surf_area": 1771.23,
+        "haddock_score": -144.4
+    },
+    {
+        "url": "variants/6M0J_S511P.pdb",
+        "name": "6M0J_S511P",
+        "dataset": "variants",
+        "e_vdw": -57.05,
+        "e_elec": -212.42,
+        "e_desolv": -45.5,
+        "buried_surf_area": 1774.48,
+        "haddock_score": -145.03
+    },
+    {
+        "url": "variants/6M0J_S547C.pdb",
+        "name": "6M0J_S547C",
+        "dataset": "variants",
+        "e_vdw": -55.61,
+        "e_elec": -237.75,
+        "e_desolv": -42.9,
+        "buried_surf_area": 1792.07,
+        "haddock_score": -146.06
+    },
+    {
+        "url": "variants/6M0J_S563L.pdb",
+        "name": "6M0J_S563L",
+        "dataset": "variants",
+        "e_vdw": -61.56,
+        "e_elec": -205.18,
+        "e_desolv": -43.39,
+        "buried_surf_area": 1752.83,
+        "haddock_score": -145.99
+    },
+    {
+        "url": "variants/6M0J_S607G.pdb",
+        "name": "6M0J_S607G",
+        "dataset": "variants",
+        "e_vdw": -60.27,
+        "e_elec": -197.08,
+        "e_desolv": -39.01,
+        "buried_surf_area": 1786.31,
+        "haddock_score": -138.7
+    },
+    {
+        "url": "variants/6M0J_T334M.pdb",
+        "name": "6M0J_T334M",
+        "dataset": "variants",
+        "e_vdw": -61.01,
+        "e_elec": -241.79,
+        "e_desolv": -36.53,
+        "buried_surf_area": 1828.59,
+        "haddock_score": -145.9
+    },
+    {
+        "url": "variants/6M0J_T445M.pdb",
+        "name": "6M0J_T445M",
+        "dataset": "variants",
+        "e_vdw": -63.92,
+        "e_elec": -198.41,
+        "e_desolv": -46.14,
+        "buried_surf_area": 1741.27,
+        "haddock_score": -149.74
+    },
+    {
+        "url": "variants/6M0J_T593N.pdb",
+        "name": "6M0J_T593N",
+        "dataset": "variants",
+        "e_vdw": -64.19,
+        "e_elec": -214.25,
+        "e_desolv": -39.19,
+        "buried_surf_area": 1776.06,
+        "haddock_score": -146.23
+    },
+    {
+        "url": "variants/6M0J_V107A.pdb",
+        "name": "6M0J_V107A",
+        "dataset": "variants",
+        "e_vdw": -59.87,
+        "e_elec": -236.94,
+        "e_desolv": -39.24,
+        "buried_surf_area": 1817.14,
+        "haddock_score": -146.5
+    },
+    {
+        "url": "variants/6M0J_V184A.pdb",
+        "name": "6M0J_V184A",
+        "dataset": "variants",
+        "e_vdw": -60.5,
+        "e_elec": -231.33,
+        "e_desolv": -43.1,
+        "buried_surf_area": 1805.88,
+        "haddock_score": -149.87
+    },
+    {
+        "url": "variants/6M0J_V283F.pdb",
+        "name": "6M0J_V283F",
+        "dataset": "variants",
+        "e_vdw": -61.05,
+        "e_elec": -236.23,
+        "e_desolv": -38.85,
+        "buried_surf_area": 1824.31,
+        "haddock_score": -147.15
+    },
+    {
+        "url": "variants/6M0J_V298A.pdb",
+        "name": "6M0J_V298A",
+        "dataset": "variants",
+        "e_vdw": -61.06,
+        "e_elec": -238.68,
+        "e_desolv": -38.81,
+        "buried_surf_area": 1770.31,
+        "haddock_score": -147.61
+    },
+    {
+        "url": "variants/6M0J_V447F.pdb",
+        "name": "6M0J_V447F",
+        "dataset": "variants",
+        "e_vdw": -65.41,
+        "e_elec": -223.06,
+        "e_desolv": -37.88,
+        "buried_surf_area": 1812.23,
+        "haddock_score": -147.9
+    },
+    {
+        "url": "variants/6M0J_V447P.pdb",
+        "name": "6M0J_V447P",
+        "dataset": "variants",
+        "e_vdw": -65.41,
+        "e_elec": -223.06,
+        "e_desolv": -37.88,
+        "buried_surf_area": 1812.23,
+        "haddock_score": -147.9
+    },
+    {
+        "url": "variants/6M0J_V506A.pdb",
+        "name": "6M0J_V506A",
+        "dataset": "variants",
+        "e_vdw": -57.17,
+        "e_elec": -240.33,
+        "e_desolv": -41.38,
+        "buried_surf_area": 1798.14,
+        "haddock_score": -146.62
+    },
+    {
+        "url": "variants/6M0J_Y217C.pdb",
+        "name": "6M0J_Y217C",
+        "dataset": "variants",
+        "e_vdw": -60.88,
+        "e_elec": -238.72,
+        "e_desolv": -34.07,
+        "buried_surf_area": 1745.1,
+        "haddock_score": -142.69
+    },
+    {
+        "url": "variants/6M0J_Y252C.pdb",
+        "name": "6M0J_Y252C",
+        "dataset": "variants",
+        "e_vdw": -60.02,
+        "e_elec": -218.06,
+        "e_desolv": -46.69,
+        "buried_surf_area": 1864.82,
+        "haddock_score": -150.32
+    },
+    {
+        "url": "variants/6M17_A191P.pdb",
+        "name": "6M17_A191P",
+        "dataset": "variants",
+        "e_vdw": -53.48,
+        "e_elec": -192.52,
+        "e_desolv": -12.51,
+        "buried_surf_area": 1657.85,
+        "haddock_score": -104.49
+    },
+    {
+        "url": "variants/6M17_A251T.pdb",
+        "name": "6M17_A251T",
+        "dataset": "variants",
+        "e_vdw": -58.26,
+        "e_elec": -204.74,
+        "e_desolv": -0.66,
+        "buried_surf_area": 1746.71,
+        "haddock_score": -99.87
+    },
+    {
+        "url": "variants/6M17_A251Y.pdb",
+        "name": "6M17_A251Y",
+        "dataset": "variants",
+        "e_vdw": -57.39,
+        "e_elec": -128.94,
+        "e_desolv": -22.91,
+        "buried_surf_area": 1773.52,
+        "haddock_score": -106.09
+    },
+    {
+        "url": "variants/6M17_A501T.pdb",
+        "name": "6M17_A501T",
+        "dataset": "variants",
+        "e_vdw": -55.32,
+        "e_elec": -149.47,
+        "e_desolv": -15.33,
+        "buried_surf_area": 1710.14,
+        "haddock_score": -100.54
+    },
+    {
+        "url": "variants/6M17_A532T.pdb",
+        "name": "6M17_A532T",
+        "dataset": "variants",
+        "e_vdw": -57.12,
+        "e_elec": -211.4,
+        "e_desolv": -8.13,
+        "buried_surf_area": 1796.28,
+        "haddock_score": -107.53
+    },
+    {
+        "url": "variants/6M17_A614S.pdb",
+        "name": "6M17_A614S",
+        "dataset": "variants",
+        "e_vdw": -53.98,
+        "e_elec": -227.08,
+        "e_desolv": 2.38,
+        "buried_surf_area": 1788.54,
+        "haddock_score": -97.02
+    },
+    {
+        "url": "variants/6M17_A614T.pdb",
+        "name": "6M17_A614T",
+        "dataset": "variants",
+        "e_vdw": -51.9,
+        "e_elec": -190.66,
+        "e_desolv": -15.19,
+        "buried_surf_area": 1747.87,
+        "haddock_score": -105.22
+    },
+    {
+        "url": "variants/6M17_A673G.pdb",
+        "name": "6M17_A673G",
+        "dataset": "variants",
+        "e_vdw": -58.21,
+        "e_elec": -199.28,
+        "e_desolv": -19.6,
+        "buried_surf_area": 1724.8,
+        "haddock_score": -117.67
+    },
+    {
+        "url": "variants/6M17_A99T.pdb",
+        "name": "6M17_A99T",
+        "dataset": "variants",
+        "e_vdw": -55.65,
+        "e_elec": -211.14,
+        "e_desolv": -21.47,
+        "buried_surf_area": 1785.96,
+        "haddock_score": -119.35
+    },
+    {
+        "url": "variants/6M17_C141Y.pdb",
+        "name": "6M17_C141Y",
+        "dataset": "variants",
+        "e_vdw": -52.7,
+        "e_elec": -177.53,
+        "e_desolv": -13.54,
+        "buried_surf_area": 1676.87,
+        "haddock_score": -101.75
+    },
+    {
+        "url": "variants/6M17_D206G.pdb",
+        "name": "6M17_D206G",
+        "dataset": "variants",
+        "e_vdw": -56.31,
+        "e_elec": -198.67,
+        "e_desolv": -5.89,
+        "buried_surf_area": 1808.12,
+        "haddock_score": -101.93
+    },
+    {
+        "url": "variants/6M17_D216E.pdb",
+        "name": "6M17_D216E",
+        "dataset": "variants",
+        "e_vdw": -57.31,
+        "e_elec": -180.44,
+        "e_desolv": -10.25,
+        "buried_surf_area": 1729.22,
+        "haddock_score": -103.65
+    },
+    {
+        "url": "variants/6M17_D292V.pdb",
+        "name": "6M17_D292V",
+        "dataset": "variants",
+        "e_vdw": -56.94,
+        "e_elec": -168.39,
+        "e_desolv": -2.8,
+        "buried_surf_area": 1734.19,
+        "haddock_score": -93.42
+    },
+    {
+        "url": "variants/6M17_D295G.pdb",
+        "name": "6M17_D295G",
+        "dataset": "variants",
+        "e_vdw": -55.61,
+        "e_elec": -207.68,
+        "e_desolv": -9.72,
+        "buried_surf_area": 1711.24,
+        "haddock_score": -106.87
+    },
+    {
+        "url": "variants/6M17_D299G.pdb",
+        "name": "6M17_D299G",
+        "dataset": "variants",
+        "e_vdw": -50.56,
+        "e_elec": -215.99,
+        "e_desolv": -7.54,
+        "buried_surf_area": 1733.95,
+        "haddock_score": -101.3
+    },
+    {
+        "url": "variants/6M17_D368N.pdb",
+        "name": "6M17_D368N",
+        "dataset": "variants",
+        "e_vdw": -62.75,
+        "e_elec": -187.33,
+        "e_desolv": -4.72,
+        "buried_surf_area": 1781.59,
+        "haddock_score": -104.94
+    },
+    {
+        "url": "variants/6M17_D427Y.pdb",
+        "name": "6M17_D427Y",
+        "dataset": "variants",
+        "e_vdw": -60.15,
+        "e_elec": -163.62,
+        "e_desolv": -12.81,
+        "buried_surf_area": 1674.48,
+        "haddock_score": -105.68
+    },
+    {
+        "url": "variants/6M17_D494V.pdb",
+        "name": "6M17_D494V",
+        "dataset": "variants",
+        "e_vdw": -55.2,
+        "e_elec": -193.15,
+        "e_desolv": -8.84,
+        "buried_surf_area": 1773.62,
+        "haddock_score": -102.67
+    },
+    {
+        "url": "variants/6M17_D597E.pdb",
+        "name": "6M17_D597E",
+        "dataset": "variants",
+        "e_vdw": -46.11,
+        "e_elec": -201.83,
+        "e_desolv": -16.11,
+        "buried_surf_area": 1659.04,
+        "haddock_score": -102.59
+    },
+    {
+        "url": "variants/6M17_D609N.pdb",
+        "name": "6M17_D609N",
+        "dataset": "variants",
+        "e_vdw": -56.85,
+        "e_elec": -198.86,
+        "e_desolv": -0.89,
+        "buried_surf_area": 1756.6,
+        "haddock_score": -97.51
+    },
+    {
+        "url": "variants/6M17_D693H.pdb",
+        "name": "6M17_D693H",
+        "dataset": "variants",
+        "e_vdw": -58.57,
+        "e_elec": -189.35,
+        "e_desolv": -12.43,
+        "buried_surf_area": 1740.44,
+        "haddock_score": -108.87
+    },
+    {
+        "url": "variants/6M17_D767H.pdb",
+        "name": "6M17_D767H",
+        "dataset": "variants",
+        "e_vdw": -58.58,
+        "e_elec": -210.38,
+        "e_desolv": -5.68,
+        "buried_surf_area": 1774.05,
+        "haddock_score": -106.34
+    },
+    {
+        "url": "variants/6M17_E171D.pdb",
+        "name": "6M17_E171D",
+        "dataset": "variants",
+        "e_vdw": -55.32,
+        "e_elec": -201.9,
+        "e_desolv": -8.12,
+        "buried_surf_area": 1713.9,
+        "haddock_score": -103.82
+    },
+    {
+        "url": "variants/6M17_E23K.pdb",
+        "name": "6M17_E23K",
+        "dataset": "variants",
+        "e_vdw": -57.63,
+        "e_elec": -201.37,
+        "e_desolv": -18.84,
+        "buried_surf_area": 1805.27,
+        "haddock_score": -116.74
+    },
+    {
+        "url": "variants/6M17_E312K.pdb",
+        "name": "6M17_E312K",
+        "dataset": "variants",
+        "e_vdw": -55.29,
+        "e_elec": -207.71,
+        "e_desolv": -3.41,
+        "buried_surf_area": 1778.11,
+        "haddock_score": -100.24
+    },
+    {
+        "url": "variants/6M17_E329G.pdb",
+        "name": "6M17_E329G",
+        "dataset": "variants",
+        "e_vdw": -62.28,
+        "e_elec": -157.27,
+        "e_desolv": -5.06,
+        "buried_surf_area": 1691.02,
+        "haddock_score": -98.79
+    },
+    {
+        "url": "variants/6M17_E375D.pdb",
+        "name": "6M17_E375D",
+        "dataset": "variants",
+        "e_vdw": -53.82,
+        "e_elec": -199.12,
+        "e_desolv": -1.33,
+        "buried_surf_area": 1718.5,
+        "haddock_score": -94.97
+    },
+    {
+        "url": "variants/6M17_E37K.pdb",
+        "name": "6M17_E37K",
+        "dataset": "variants",
+        "e_vdw": -58.36,
+        "e_elec": -172.6,
+        "e_desolv": -4.26,
+        "buried_surf_area": 1745.59,
+        "haddock_score": -97.14
+    },
+    {
+        "url": "variants/6M17_E37R.pdb",
+        "name": "6M17_E37R",
+        "dataset": "variants",
+        "e_vdw": -46.99,
+        "e_elec": -209.85,
+        "e_desolv": -6.82,
+        "buried_surf_area": 1702.53,
+        "haddock_score": -95.78
+    },
+    {
+        "url": "variants/6M17_E467K.pdb",
+        "name": "6M17_E467K",
+        "dataset": "variants",
+        "e_vdw": -55.32,
+        "e_elec": -186.5,
+        "e_desolv": -1.12,
+        "buried_surf_area": 1725.07,
+        "haddock_score": -93.74
+    },
+    {
+        "url": "variants/6M17_E483D.pdb",
+        "name": "6M17_E483D",
+        "dataset": "variants",
+        "e_vdw": -56.08,
+        "e_elec": -178.28,
+        "e_desolv": -23.31,
+        "buried_surf_area": 1753.87,
+        "haddock_score": -115.05
+    },
+    {
+        "url": "variants/6M17_E667V.pdb",
+        "name": "6M17_E667V",
+        "dataset": "variants",
+        "e_vdw": -54.16,
+        "e_elec": -136.91,
+        "e_desolv": -15.17,
+        "buried_surf_area": 1746.26,
+        "haddock_score": -96.71
+    },
+    {
+        "url": "variants/6M17_F400L.pdb",
+        "name": "6M17_F400L",
+        "dataset": "variants",
+        "e_vdw": -55.24,
+        "e_elec": -206.91,
+        "e_desolv": -7.06,
+        "buried_surf_area": 1755.07,
+        "haddock_score": -103.68
+    },
+    {
+        "url": "variants/6M17_F40L.pdb",
+        "name": "6M17_F40L",
+        "dataset": "variants",
+        "e_vdw": -62.77,
+        "e_elec": -192.23,
+        "e_desolv": -14.42,
+        "buried_surf_area": 1873.06,
+        "haddock_score": -115.64
+    },
+    {
+        "url": "variants/6M17_F504I.pdb",
+        "name": "6M17_F504I",
+        "dataset": "variants",
+        "e_vdw": -53.91,
+        "e_elec": -196.83,
+        "e_desolv": -0.12,
+        "buried_surf_area": 1726.77,
+        "haddock_score": -93.4
+    },
+    {
+        "url": "variants/6M17_F504L.pdb",
+        "name": "6M17_F504L",
+        "dataset": "variants",
+        "e_vdw": -53.51,
+        "e_elec": -198.33,
+        "e_desolv": -16.32,
+        "buried_surf_area": 1717.19,
+        "haddock_score": -109.5
+    },
+    {
+        "url": "variants/6M17_F523L.pdb",
+        "name": "6M17_F523L",
+        "dataset": "variants",
+        "e_vdw": -56.2,
+        "e_elec": -213.06,
+        "e_desolv": -7.11,
+        "buried_surf_area": 1807.04,
+        "haddock_score": -105.92
+    },
+    {
+        "url": "variants/6M17_G211R.pdb",
+        "name": "6M17_G211R",
+        "dataset": "variants",
+        "e_vdw": -53.69,
+        "e_elec": -219.35,
+        "e_desolv": -9.08,
+        "buried_surf_area": 1796.61,
+        "haddock_score": -106.64
+    },
+    {
+        "url": "variants/6M17_G220S.pdb",
+        "name": "6M17_G220S",
+        "dataset": "variants",
+        "e_vdw": -54.41,
+        "e_elec": -185.52,
+        "e_desolv": -9.75,
+        "buried_surf_area": 1766.75,
+        "haddock_score": -101.26
+    },
+    {
+        "url": "variants/6M17_G326E.pdb",
+        "name": "6M17_G326E",
+        "dataset": "variants",
+        "e_vdw": -57.88,
+        "e_elec": -221.33,
+        "e_desolv": -8.67,
+        "buried_surf_area": 1875.02,
+        "haddock_score": -110.82
+    },
+    {
+        "url": "variants/6M17_G352V.pdb",
+        "name": "6M17_G352V",
+        "dataset": "variants",
+        "e_vdw": -56.45,
+        "e_elec": -197.96,
+        "e_desolv": -17.79,
+        "buried_surf_area": 1837.52,
+        "haddock_score": -113.83
+    },
+    {
+        "url": "variants/6M17_G377V.pdb",
+        "name": "6M17_G377V",
+        "dataset": "variants",
+        "e_vdw": -51.69,
+        "e_elec": -212.4,
+        "e_desolv": -9.98,
+        "buried_surf_area": 1772.82,
+        "haddock_score": -104.15
+    },
+    {
+        "url": "variants/6M17_G448E.pdb",
+        "name": "6M17_G448E",
+        "dataset": "variants",
+        "e_vdw": -57.95,
+        "e_elec": -201.95,
+        "e_desolv": -2.95,
+        "buried_surf_area": 1856.99,
+        "haddock_score": -101.29
+    },
+    {
+        "url": "variants/6M17_H195Y.pdb",
+        "name": "6M17_H195Y",
+        "dataset": "variants",
+        "e_vdw": -56.92,
+        "e_elec": -153.07,
+        "e_desolv": -6.02,
+        "buried_surf_area": 1736.6,
+        "haddock_score": -93.55
+    },
+    {
+        "url": "variants/6M17_H378R.pdb",
+        "name": "6M17_H378R",
+        "dataset": "variants",
+        "e_vdw": -58.73,
+        "e_elec": -171.22,
+        "e_desolv": -10.52,
+        "buried_surf_area": 1712.4,
+        "haddock_score": -103.49
+    },
+    {
+        "url": "variants/6M17_I291K.pdb",
+        "name": "6M17_I291K",
+        "dataset": "variants",
+        "e_vdw": -49.0,
+        "e_elec": -206.93,
+        "e_desolv": -5.91,
+        "buried_surf_area": 1720.04,
+        "haddock_score": -96.3
+    },
+    {
+        "url": "variants/6M17_I446M.pdb",
+        "name": "6M17_I446M",
+        "dataset": "variants",
+        "e_vdw": -51.69,
+        "e_elec": -165.84,
+        "e_desolv": -20.97,
+        "buried_surf_area": 1724.53,
+        "haddock_score": -105.83
+    },
+    {
+        "url": "variants/6M17_I468V.pdb",
+        "name": "6M17_I468V",
+        "dataset": "variants",
+        "e_vdw": -51.12,
+        "e_elec": -184.27,
+        "e_desolv": -8.54,
+        "buried_surf_area": 1681.39,
+        "haddock_score": -96.51
+    },
+    {
+        "url": "variants/6M17_I741V.pdb",
+        "name": "6M17_I741V",
+        "dataset": "variants",
+        "e_vdw": -60.8,
+        "e_elec": -208.88,
+        "e_desolv": -11.86,
+        "buried_surf_area": 1823.54,
+        "haddock_score": -114.44
+    },
+    {
+        "url": "variants/6M17_K26R.pdb",
+        "name": "6M17_K26R",
+        "dataset": "variants",
+        "e_vdw": -55.02,
+        "e_elec": -195.38,
+        "e_desolv": -21.52,
+        "buried_surf_area": 1802.38,
+        "haddock_score": -115.62
+    },
+    {
+        "url": "variants/6M17_K288T.pdb",
+        "name": "6M17_K288T",
+        "dataset": "variants",
+        "e_vdw": -52.21,
+        "e_elec": -207.23,
+        "e_desolv": -1.96,
+        "buried_surf_area": 1733.65,
+        "haddock_score": -95.62
+    },
+    {
+        "url": "variants/6M17_K341R.pdb",
+        "name": "6M17_K341R",
+        "dataset": "variants",
+        "e_vdw": -55.79,
+        "e_elec": -213.07,
+        "e_desolv": -6.43,
+        "buried_surf_area": 1740.69,
+        "haddock_score": -104.83
+    },
+    {
+        "url": "variants/6M17_K541I.pdb",
+        "name": "6M17_K541I",
+        "dataset": "variants",
+        "e_vdw": -55.34,
+        "e_elec": -247.15,
+        "e_desolv": -14.56,
+        "buried_surf_area": 1771.02,
+        "haddock_score": -119.33
+    },
+    {
+        "url": "variants/6M17_K553T.pdb",
+        "name": "6M17_K553T",
+        "dataset": "variants",
+        "e_vdw": -59.68,
+        "e_elec": -209.99,
+        "e_desolv": -3.73,
+        "buried_surf_area": 1843.24,
+        "haddock_score": -105.41
+    },
+    {
+        "url": "variants/6M17_K689E.pdb",
+        "name": "6M17_K689E",
+        "dataset": "variants",
+        "e_vdw": -54.31,
+        "e_elec": -214.19,
+        "e_desolv": -9.57,
+        "buried_surf_area": 1735.25,
+        "haddock_score": -106.72
+    },
+    {
+        "url": "variants/6M17_L410V.pdb",
+        "name": "6M17_L410V",
+        "dataset": "variants",
+        "e_vdw": -56.38,
+        "e_elec": -194.6,
+        "e_desolv": -13.88,
+        "buried_surf_area": 1777.45,
+        "haddock_score": -109.18
+    },
+    {
+        "url": "variants/6M17_L418S.pdb",
+        "name": "6M17_L418S",
+        "dataset": "variants",
+        "e_vdw": -56.05,
+        "e_elec": -174.52,
+        "e_desolv": -14.05,
+        "buried_surf_area": 1723.7,
+        "haddock_score": -105.0
+    },
+    {
+        "url": "variants/6M17_L570S.pdb",
+        "name": "6M17_L570S",
+        "dataset": "variants",
+        "e_vdw": -58.29,
+        "e_elec": -201.28,
+        "e_desolv": -3.42,
+        "buried_surf_area": 1686.89,
+        "haddock_score": -101.97
+    },
+    {
+        "url": "variants/6M17_L595V.pdb",
+        "name": "6M17_L595V",
+        "dataset": "variants",
+        "e_vdw": -52.41,
+        "e_elec": -199.45,
+        "e_desolv": -2.4,
+        "buried_surf_area": 1659.07,
+        "haddock_score": -94.7
+    },
+    {
+        "url": "variants/6M17_L722P.pdb",
+        "name": "6M17_L722P",
+        "dataset": "variants",
+        "e_vdw": -61.08,
+        "e_elec": -174.62,
+        "e_desolv": -10.45,
+        "buried_surf_area": 1750.84,
+        "haddock_score": -106.45
+    },
+    {
+        "url": "variants/6M17_L731F.pdb",
+        "name": "6M17_L731F",
+        "dataset": "variants",
+        "e_vdw": -53.87,
+        "e_elec": -185.19,
+        "e_desolv": -6.3,
+        "buried_surf_area": 1628.2,
+        "haddock_score": -97.21
+    },
+    {
+        "url": "variants/6M17_M270V.pdb",
+        "name": "6M17_M270V",
+        "dataset": "variants",
+        "e_vdw": -59.15,
+        "e_elec": -192.04,
+        "e_desolv": -1.84,
+        "buried_surf_area": 1777.0,
+        "haddock_score": -99.4
+    },
+    {
+        "url": "variants/6M17_M297I.pdb",
+        "name": "6M17_M297I",
+        "dataset": "variants",
+        "e_vdw": -53.58,
+        "e_elec": -191.19,
+        "e_desolv": 0.87,
+        "buried_surf_area": 1723.4,
+        "haddock_score": -90.95
+    },
+    {
+        "url": "variants/6M17_M297L.pdb",
+        "name": "6M17_M297L",
+        "dataset": "variants",
+        "e_vdw": -55.89,
+        "e_elec": -181.16,
+        "e_desolv": -19.7,
+        "buried_surf_area": 1691.07,
+        "haddock_score": -111.82
+    },
+    {
+        "url": "variants/6M17_M332L.pdb",
+        "name": "6M17_M332L",
+        "dataset": "variants",
+        "e_vdw": -58.64,
+        "e_elec": -188.49,
+        "e_desolv": -3.3,
+        "buried_surf_area": 1769.0,
+        "haddock_score": -99.64
+    },
+    {
+        "url": "variants/6M17_M376T.pdb",
+        "name": "6M17_M376T",
+        "dataset": "variants",
+        "e_vdw": -51.17,
+        "e_elec": -198.03,
+        "e_desolv": -11.69,
+        "buried_surf_area": 1773.65,
+        "haddock_score": -102.47
+    },
+    {
+        "url": "variants/6M17_M383T.pdb",
+        "name": "6M17_M383T",
+        "dataset": "variants",
+        "e_vdw": -54.81,
+        "e_elec": -179.93,
+        "e_desolv": -13.66,
+        "buried_surf_area": 1684.37,
+        "haddock_score": -104.46
+    },
+    {
+        "url": "variants/6M17_M462I.pdb",
+        "name": "6M17_M462I",
+        "dataset": "variants",
+        "e_vdw": -56.32,
+        "e_elec": -172.19,
+        "e_desolv": -13.92,
+        "buried_surf_area": 1733.33,
+        "haddock_score": -104.68
+    },
+    {
+        "url": "variants/6M17_M480V.pdb",
+        "name": "6M17_M480V",
+        "dataset": "variants",
+        "e_vdw": -53.31,
+        "e_elec": -221.46,
+        "e_desolv": -0.73,
+        "buried_surf_area": 1719.39,
+        "haddock_score": -98.33
+    },
+    {
+        "url": "variants/6M17_M82I.pdb",
+        "name": "6M17_M82I",
+        "dataset": "variants",
+        "e_vdw": -53.63,
+        "e_elec": -187.9,
+        "e_desolv": -9.45,
+        "buried_surf_area": 1735.51,
+        "haddock_score": -100.66
+    },
+    {
+        "url": "variants/6M17_N103H.pdb",
+        "name": "6M17_N103H",
+        "dataset": "variants",
+        "e_vdw": -53.19,
+        "e_elec": -198.66,
+        "e_desolv": -4.99,
+        "buried_surf_area": 1737.96,
+        "haddock_score": -97.91
+    },
+    {
+        "url": "variants/6M17_N154K.pdb",
+        "name": "6M17_N154K",
+        "dataset": "variants",
+        "e_vdw": -53.21,
+        "e_elec": -159.84,
+        "e_desolv": -9.76,
+        "buried_surf_area": 1715.63,
+        "haddock_score": -94.94
+    },
+    {
+        "url": "variants/6M17_N159S.pdb",
+        "name": "6M17_N159S",
+        "dataset": "variants",
+        "e_vdw": -54.51,
+        "e_elec": -232.23,
+        "e_desolv": -15.53,
+        "buried_surf_area": 1750.33,
+        "haddock_score": -116.49
+    },
+    {
+        "url": "variants/6M17_N338S.pdb",
+        "name": "6M17_N338S",
+        "dataset": "variants",
+        "e_vdw": -55.64,
+        "e_elec": -184.96,
+        "e_desolv": -15.47,
+        "buried_surf_area": 1793.91,
+        "haddock_score": -108.1
+    },
+    {
+        "url": "variants/6M17_N397D.pdb",
+        "name": "6M17_N397D",
+        "dataset": "variants",
+        "e_vdw": -56.12,
+        "e_elec": -200.98,
+        "e_desolv": -10.81,
+        "buried_surf_area": 1699.52,
+        "haddock_score": -107.13
+    },
+    {
+        "url": "variants/6M17_N437S.pdb",
+        "name": "6M17_N437S",
+        "dataset": "variants",
+        "e_vdw": -55.32,
+        "e_elec": -187.28,
+        "e_desolv": 0.19,
+        "buried_surf_area": 1781.93,
+        "haddock_score": -92.59
+    },
+    {
+        "url": "variants/6M17_N546D.pdb",
+        "name": "6M17_N546D",
+        "dataset": "variants",
+        "e_vdw": -59.53,
+        "e_elec": -154.8,
+        "e_desolv": -5.85,
+        "buried_surf_area": 1738.75,
+        "haddock_score": -96.34
+    },
+    {
+        "url": "variants/6M17_N586Y.pdb",
+        "name": "6M17_N586Y",
+        "dataset": "variants",
+        "e_vdw": -54.21,
+        "e_elec": -184.8,
+        "e_desolv": -7.3,
+        "buried_surf_area": 1727.88,
+        "haddock_score": -98.47
+    },
+    {
+        "url": "variants/6M17_N58D.pdb",
+        "name": "6M17_N58D",
+        "dataset": "variants",
+        "e_vdw": -60.41,
+        "e_elec": -221.59,
+        "e_desolv": -12.37,
+        "buried_surf_area": 1742.33,
+        "haddock_score": -117.1
+    },
+    {
+        "url": "variants/6M17_N58H.pdb",
+        "name": "6M17_N58H",
+        "dataset": "variants",
+        "e_vdw": -55.59,
+        "e_elec": -221.8,
+        "e_desolv": -5.58,
+        "buried_surf_area": 1772.52,
+        "haddock_score": -105.53
+    },
+    {
+        "url": "variants/6M17_N638S.pdb",
+        "name": "6M17_N638S",
+        "dataset": "variants",
+        "e_vdw": -50.66,
+        "e_elec": -222.08,
+        "e_desolv": -12.43,
+        "buried_surf_area": 1790.6,
+        "haddock_score": -107.51
+    },
+    {
+        "url": "variants/6M17_N64K.pdb",
+        "name": "6M17_N64K",
+        "dataset": "variants",
+        "e_vdw": -55.07,
+        "e_elec": -200.97,
+        "e_desolv": -11.49,
+        "buried_surf_area": 1802.14,
+        "haddock_score": -106.75
+    },
+    {
+        "url": "variants/6M17_N720D.pdb",
+        "name": "6M17_N720D",
+        "dataset": "variants",
+        "e_vdw": -50.85,
+        "e_elec": -194.13,
+        "e_desolv": -9.4,
+        "buried_surf_area": 1714.99,
+        "haddock_score": -99.08
+    },
+    {
+        "url": "variants/6M17_N720S.pdb",
+        "name": "6M17_N720S",
+        "dataset": "variants",
+        "e_vdw": -49.42,
+        "e_elec": -167.96,
+        "e_desolv": -30.15,
+        "buried_surf_area": 1710.71,
+        "haddock_score": -113.16
+    },
+    {
+        "url": "variants/6M17_P138L.pdb",
+        "name": "6M17_P138L",
+        "dataset": "variants",
+        "e_vdw": -53.02,
+        "e_elec": -211.99,
+        "e_desolv": -30.77,
+        "buried_surf_area": 1738.32,
+        "haddock_score": -126.19
+    },
+    {
+        "url": "variants/6M17_P235R.pdb",
+        "name": "6M17_P235R",
+        "dataset": "variants",
+        "e_vdw": -55.61,
+        "e_elec": -183.39,
+        "e_desolv": -11.76,
+        "buried_surf_area": 1719.68,
+        "haddock_score": -104.05
+    },
+    {
+        "url": "variants/6M17_P263S.pdb",
+        "name": "6M17_P263S",
+        "dataset": "variants",
+        "e_vdw": -53.32,
+        "e_elec": -206.41,
+        "e_desolv": -8.74,
+        "buried_surf_area": 1777.42,
+        "haddock_score": -103.34
+    },
+    {
+        "url": "variants/6M17_P389H.pdb",
+        "name": "6M17_P389H",
+        "dataset": "variants",
+        "e_vdw": -54.37,
+        "e_elec": -186.46,
+        "e_desolv": -6.2,
+        "buried_surf_area": 1780.47,
+        "haddock_score": -97.86
+    },
+    {
+        "url": "variants/6M17_P492S.pdb",
+        "name": "6M17_P492S",
+        "dataset": "variants",
+        "e_vdw": -63.23,
+        "e_elec": -172.34,
+        "e_desolv": -10.88,
+        "buried_surf_area": 1839.85,
+        "haddock_score": -108.58
+    },
+    {
+        "url": "variants/6M17_P696T.pdb",
+        "name": "6M17_P696T",
+        "dataset": "variants",
+        "e_vdw": -54.14,
+        "e_elec": -210.36,
+        "e_desolv": -13.01,
+        "buried_surf_area": 1779.48,
+        "haddock_score": -109.22
+    },
+    {
+        "url": "variants/6M17_P729L.pdb",
+        "name": "6M17_P729L",
+        "dataset": "variants",
+        "e_vdw": -55.07,
+        "e_elec": -176.24,
+        "e_desolv": -3.25,
+        "buried_surf_area": 1770.39,
+        "haddock_score": -93.57
+    },
+    {
+        "url": "variants/6M17_Q388L.pdb",
+        "name": "6M17_Q388L",
+        "dataset": "variants",
+        "e_vdw": -53.89,
+        "e_elec": -208.3,
+        "e_desolv": -14.51,
+        "buried_surf_area": 1740.48,
+        "haddock_score": -110.06
+    },
+    {
+        "url": "variants/6M17_Q86R.pdb",
+        "name": "6M17_Q86R",
+        "dataset": "variants",
+        "e_vdw": -55.18,
+        "e_elec": -188.49,
+        "e_desolv": -1.46,
+        "buried_surf_area": 1770.73,
+        "haddock_score": -94.34
+    },
+    {
+        "url": "variants/6M17_R115Q.pdb",
+        "name": "6M17_R115Q",
+        "dataset": "variants",
+        "e_vdw": -58.6,
+        "e_elec": -206.9,
+        "e_desolv": -7.56,
+        "buried_surf_area": 1765.96,
+        "haddock_score": -107.54
+    },
+    {
+        "url": "variants/6M17_R115W.pdb",
+        "name": "6M17_R115W",
+        "dataset": "variants",
+        "e_vdw": -56.51,
+        "e_elec": -211.66,
+        "e_desolv": -14.58,
+        "buried_surf_area": 1727.67,
+        "haddock_score": -113.42
+    },
+    {
+        "url": "variants/6M17_R219C.pdb",
+        "name": "6M17_R219C",
+        "dataset": "variants",
+        "e_vdw": -54.7,
+        "e_elec": -237.42,
+        "e_desolv": -8.22,
+        "buried_surf_area": 1768.93,
+        "haddock_score": -110.4
+    },
+    {
+        "url": "variants/6M17_R219H.pdb",
+        "name": "6M17_R219H",
+        "dataset": "variants",
+        "e_vdw": -55.36,
+        "e_elec": -215.45,
+        "e_desolv": -3.31,
+        "buried_surf_area": 1757.4,
+        "haddock_score": -101.76
+    },
+    {
+        "url": "variants/6M17_R482Q.pdb",
+        "name": "6M17_R482Q",
+        "dataset": "variants",
+        "e_vdw": -51.12,
+        "e_elec": -195.62,
+        "e_desolv": -10.04,
+        "buried_surf_area": 1761.0,
+        "haddock_score": -100.28
+    },
+    {
+        "url": "variants/6M17_R514G.pdb",
+        "name": "6M17_R514G",
+        "dataset": "variants",
+        "e_vdw": -51.23,
+        "e_elec": -205.01,
+        "e_desolv": -17.02,
+        "buried_surf_area": 1692.46,
+        "haddock_score": -109.25
+    },
+    {
+        "url": "variants/6M17_R559S.pdb",
+        "name": "6M17_R559S",
+        "dataset": "variants",
+        "e_vdw": -55.95,
+        "e_elec": -189.28,
+        "e_desolv": -3.93,
+        "buried_surf_area": 1732.9,
+        "haddock_score": -97.74
+    },
+    {
+        "url": "variants/6M17_R582K.pdb",
+        "name": "6M17_R582K",
+        "dataset": "variants",
+        "e_vdw": -61.1,
+        "e_elec": -169.61,
+        "e_desolv": -4.28,
+        "buried_surf_area": 1735.58,
+        "haddock_score": -99.3
+    },
+    {
+        "url": "variants/6M17_R582S.pdb",
+        "name": "6M17_R582S",
+        "dataset": "variants",
+        "e_vdw": -59.52,
+        "e_elec": -204.4,
+        "e_desolv": -14.44,
+        "buried_surf_area": 1820.39,
+        "haddock_score": -114.84
+    },
+    {
+        "url": "variants/6M17_R671P.pdb",
+        "name": "6M17_R671P",
+        "dataset": "variants",
+        "e_vdw": -57.66,
+        "e_elec": -206.6,
+        "e_desolv": -3.84,
+        "buried_surf_area": 1700.21,
+        "haddock_score": -102.82
+    },
+    {
+        "url": "variants/6M17_R671Q.pdb",
+        "name": "6M17_R671Q",
+        "dataset": "variants",
+        "e_vdw": -58.14,
+        "e_elec": -166.57,
+        "e_desolv": -15.43,
+        "buried_surf_area": 1763.98,
+        "haddock_score": -106.88
+    },
+    {
+        "url": "variants/6M17_R697G.pdb",
+        "name": "6M17_R697G",
+        "dataset": "variants",
+        "e_vdw": -57.72,
+        "e_elec": -186.57,
+        "e_desolv": -4.18,
+        "buried_surf_area": 1760.42,
+        "haddock_score": -99.21
+    },
+    {
+        "url": "variants/6M17_R705S.pdb",
+        "name": "6M17_R705S",
+        "dataset": "variants",
+        "e_vdw": -49.61,
+        "e_elec": -200.24,
+        "e_desolv": -17.29,
+        "buried_surf_area": 1728.59,
+        "haddock_score": -106.95
+    },
+    {
+        "url": "variants/6M17_R708W.pdb",
+        "name": "6M17_R708W",
+        "dataset": "variants",
+        "e_vdw": -58.14,
+        "e_elec": -205.66,
+        "e_desolv": -10.2,
+        "buried_surf_area": 1853.65,
+        "haddock_score": -109.47
+    },
+    {
+        "url": "variants/6M17_R710C.pdb",
+        "name": "6M17_R710C",
+        "dataset": "variants",
+        "e_vdw": -53.84,
+        "e_elec": -215.29,
+        "e_desolv": -3.36,
+        "buried_surf_area": 1811.84,
+        "haddock_score": -100.26
+    },
+    {
+        "url": "variants/6M17_R710H.pdb",
+        "name": "6M17_R710H",
+        "dataset": "variants",
+        "e_vdw": -54.49,
+        "e_elec": -185.87,
+        "e_desolv": -13.68,
+        "buried_surf_area": 1704.35,
+        "haddock_score": -105.34
+    },
+    {
+        "url": "variants/6M17_R716C.pdb",
+        "name": "6M17_R716C",
+        "dataset": "variants",
+        "e_vdw": -55.49,
+        "e_elec": -183.59,
+        "e_desolv": -8.07,
+        "buried_surf_area": 1717.88,
+        "haddock_score": -100.28
+    },
+    {
+        "url": "variants/6M17_R716H.pdb",
+        "name": "6M17_R716H",
+        "dataset": "variants",
+        "e_vdw": -56.11,
+        "e_elec": -229.71,
+        "e_desolv": -9.66,
+        "buried_surf_area": 1873.05,
+        "haddock_score": -111.71
+    },
+    {
+        "url": "variants/6M17_R768W.pdb",
+        "name": "6M17_R768W",
+        "dataset": "variants",
+        "e_vdw": -54.7,
+        "e_elec": -185.02,
+        "e_desolv": -18.76,
+        "buried_surf_area": 1749.49,
+        "haddock_score": -110.46
+    },
+    {
+        "url": "variants/6M17_S257N.pdb",
+        "name": "6M17_S257N",
+        "dataset": "variants",
+        "e_vdw": -58.12,
+        "e_elec": -192.84,
+        "e_desolv": 1.21,
+        "buried_surf_area": 1752.52,
+        "haddock_score": -95.48
+    },
+    {
+        "url": "variants/6M17_S420C.pdb",
+        "name": "6M17_S420C",
+        "dataset": "variants",
+        "e_vdw": -54.97,
+        "e_elec": -208.83,
+        "e_desolv": -7.35,
+        "buried_surf_area": 1733.06,
+        "haddock_score": -104.09
+    },
+    {
+        "url": "variants/6M17_S420P.pdb",
+        "name": "6M17_S420P",
+        "dataset": "variants",
+        "e_vdw": -57.73,
+        "e_elec": -223.42,
+        "e_desolv": -7.56,
+        "buried_surf_area": 1792.89,
+        "haddock_score": -109.97
+    },
+    {
+        "url": "variants/6M17_S47P.pdb",
+        "name": "6M17_S47P",
+        "dataset": "variants",
+        "e_vdw": -52.73,
+        "e_elec": -184.01,
+        "e_desolv": -13.6,
+        "buried_surf_area": 1780.69,
+        "haddock_score": -103.13
+    },
+    {
+        "url": "variants/6M17_S511P.pdb",
+        "name": "6M17_S511P",
+        "dataset": "variants",
+        "e_vdw": -51.86,
+        "e_elec": -170.11,
+        "e_desolv": -8.51,
+        "buried_surf_area": 1729.43,
+        "haddock_score": -94.39
+    },
+    {
+        "url": "variants/6M17_S547C.pdb",
+        "name": "6M17_S547C",
+        "dataset": "variants",
+        "e_vdw": -54.35,
+        "e_elec": -216.72,
+        "e_desolv": -5.93,
+        "buried_surf_area": 1754.9,
+        "haddock_score": -103.62
+    },
+    {
+        "url": "variants/6M17_S563L.pdb",
+        "name": "6M17_S563L",
+        "dataset": "variants",
+        "e_vdw": -54.41,
+        "e_elec": -184.5,
+        "e_desolv": -15.92,
+        "buried_surf_area": 1696.51,
+        "haddock_score": -107.23
+    },
+    {
+        "url": "variants/6M17_S607G.pdb",
+        "name": "6M17_S607G",
+        "dataset": "variants",
+        "e_vdw": -54.49,
+        "e_elec": -182.47,
+        "e_desolv": -4.4,
+        "buried_surf_area": 1637.65,
+        "haddock_score": -95.38
+    },
+    {
+        "url": "variants/6M17_S692P.pdb",
+        "name": "6M17_S692P",
+        "dataset": "variants",
+        "e_vdw": -55.14,
+        "e_elec": -232.27,
+        "e_desolv": -7.0,
+        "buried_surf_area": 1789.87,
+        "haddock_score": -108.59
+    },
+    {
+        "url": "variants/6M17_S709R.pdb",
+        "name": "6M17_S709R",
+        "dataset": "variants",
+        "e_vdw": -60.53,
+        "e_elec": -202.77,
+        "e_desolv": -2.42,
+        "buried_surf_area": 1768.61,
+        "haddock_score": -103.5
+    },
+    {
+        "url": "variants/6M17_S740F.pdb",
+        "name": "6M17_S740F",
+        "dataset": "variants",
+        "e_vdw": -55.28,
+        "e_elec": -164.88,
+        "e_desolv": -10.24,
+        "buried_surf_area": 1776.94,
+        "haddock_score": -98.5
+    },
+    {
+        "url": "variants/6M17_S740P.pdb",
+        "name": "6M17_S740P",
+        "dataset": "variants",
+        "e_vdw": -56.43,
+        "e_elec": -222.21,
+        "e_desolv": -3.42,
+        "buried_surf_area": 1783.36,
+        "haddock_score": -104.29
+    },
+    {
+        "url": "variants/6M17_T334M.pdb",
+        "name": "6M17_T334M",
+        "dataset": "variants",
+        "e_vdw": -58.52,
+        "e_elec": -213.58,
+        "e_desolv": -1.18,
+        "buried_surf_area": 1858.72,
+        "haddock_score": -102.42
+    },
+    {
+        "url": "variants/6M17_T445M.pdb",
+        "name": "6M17_T445M",
+        "dataset": "variants",
+        "e_vdw": -53.26,
+        "e_elec": -198.57,
+        "e_desolv": -17.25,
+        "buried_surf_area": 1812.68,
+        "haddock_score": -110.22
+    },
+    {
+        "url": "variants/6M17_T593N.pdb",
+        "name": "6M17_T593N",
+        "dataset": "variants",
+        "e_vdw": -57.24,
+        "e_elec": -228.46,
+        "e_desolv": 4.2,
+        "buried_surf_area": 1807.28,
+        "haddock_score": -98.73
+    },
+    {
+        "url": "variants/6M17_V107A.pdb",
+        "name": "6M17_V107A",
+        "dataset": "variants",
+        "e_vdw": -54.27,
+        "e_elec": -204.47,
+        "e_desolv": -3.88,
+        "buried_surf_area": 1759.51,
+        "haddock_score": -99.04
+    },
+    {
+        "url": "variants/6M17_V184A.pdb",
+        "name": "6M17_V184A",
+        "dataset": "variants",
+        "e_vdw": -55.34,
+        "e_elec": -183.35,
+        "e_desolv": -21.58,
+        "buried_surf_area": 1763.33,
+        "haddock_score": -113.59
+    },
+    {
+        "url": "variants/6M17_V283F.pdb",
+        "name": "6M17_V283F",
+        "dataset": "variants",
+        "e_vdw": -49.16,
+        "e_elec": -166.46,
+        "e_desolv": -9.46,
+        "buried_surf_area": 1700.87,
+        "haddock_score": -91.91
+    },
+    {
+        "url": "variants/6M17_V298A.pdb",
+        "name": "6M17_V298A",
+        "dataset": "variants",
+        "e_vdw": -53.39,
+        "e_elec": -184.66,
+        "e_desolv": -4.99,
+        "buried_surf_area": 1649.22,
+        "haddock_score": -95.31
+    },
+    {
+        "url": "variants/6M17_V447F.pdb",
+        "name": "6M17_V447F",
+        "dataset": "variants",
+        "e_vdw": -64.89,
+        "e_elec": -228.31,
+        "e_desolv": -4.1,
+        "buried_surf_area": 1846.37,
+        "haddock_score": -114.65
+    },
+    {
+        "url": "variants/6M17_V506A.pdb",
+        "name": "6M17_V506A",
+        "dataset": "variants",
+        "e_vdw": -53.09,
+        "e_elec": -180.9,
+        "e_desolv": -6.23,
+        "buried_surf_area": 1690.15,
+        "haddock_score": -95.5
+    },
+    {
+        "url": "variants/6M17_V670A.pdb",
+        "name": "6M17_V670A",
+        "dataset": "variants",
+        "e_vdw": -57.54,
+        "e_elec": -166.27,
+        "e_desolv": -11.62,
+        "buried_surf_area": 1736.61,
+        "haddock_score": -102.41
+    },
+    {
+        "url": "variants/6M17_V672A.pdb",
+        "name": "6M17_V672A",
+        "dataset": "variants",
+        "e_vdw": -53.25,
+        "e_elec": -193.34,
+        "e_desolv": -5.09,
+        "buried_surf_area": 1798.64,
+        "haddock_score": -97.01
+    },
+    {
+        "url": "variants/6M17_V672L.pdb",
+        "name": "6M17_V672L",
+        "dataset": "variants",
+        "e_vdw": -56.31,
+        "e_elec": -205.71,
+        "e_desolv": -6.4,
+        "buried_surf_area": 1771.25,
+        "haddock_score": -103.85
+    },
+    {
+        "url": "variants/6M17_V700I.pdb",
+        "name": "6M17_V700I",
+        "dataset": "variants",
+        "e_vdw": -54.48,
+        "e_elec": -193.76,
+        "e_desolv": -6.05,
+        "buried_surf_area": 1697.4,
+        "haddock_score": -99.28
+    },
+    {
+        "url": "variants/6M17_V745I.pdb",
+        "name": "6M17_V745I",
+        "dataset": "variants",
+        "e_vdw": -56.71,
+        "e_elec": -172.48,
+        "e_desolv": -1.61,
+        "buried_surf_area": 1775.82,
+        "haddock_score": -92.82
+    },
+    {
+        "url": "variants/6M17_V755A.pdb",
+        "name": "6M17_V755A",
+        "dataset": "variants",
+        "e_vdw": -53.43,
+        "e_elec": -187.87,
+        "e_desolv": -14.28,
+        "buried_surf_area": 1756.57,
+        "haddock_score": -105.28
+    },
+    {
+        "url": "variants/6M17_Y217C.pdb",
+        "name": "6M17_Y217C",
+        "dataset": "variants",
+        "e_vdw": -51.7,
+        "e_elec": -206.68,
+        "e_desolv": -1.1,
+        "buried_surf_area": 1751.03,
+        "haddock_score": -94.14
+    },
+    {
+        "url": "variants/6M17_Y252C.pdb",
+        "name": "6M17_Y252C",
+        "dataset": "variants",
+        "e_vdw": -57.96,
+        "e_elec": -147.35,
+        "e_desolv": -18.55,
+        "buried_surf_area": 1718.27,
+        "haddock_score": -105.98
+    },
+    {
+        "url": "variants/6M17_Y654S.pdb",
+        "name": "6M17_Y654S",
+        "dataset": "variants",
+        "e_vdw": -56.33,
+        "e_elec": -219.47,
+        "e_desolv": -10.68,
+        "buried_surf_area": 1701.98,
+        "haddock_score": -110.9
+    }
+]

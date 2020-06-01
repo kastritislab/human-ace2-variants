@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165304631-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-165304631-1');
+    </script>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://unpkg.com/tabulator-tables@4.6.2/dist/css/bootstrap/tabulator_bootstrap4.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.6.2/dist/js/tabulator.min.js"></script>
+    <script src="js/lib/ngl.js"></script>
+    <script src="js/globals.js"></script>
+
+    <title>ACE2:RBD Models</title>
+  </head>
+  <body>
+
+  <div class="container-lg p-0 mb-2" style="height: 5%">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <a href="#" class="navbar-brand mr-3">HADDOCK models of ACE2 variants bound to SARS-CoV-2 RBD</a>
+        <div class="collapse navbar-collapse">
+          <div class="navbar-nav ml-auto">
+              <a href="https://data.sbgrid.org/dataset/791/" class="nav-item nav-link active">Download dataset</a>
+          </div>
+        </div>
+    </nav>
+  </div>    
+  <div class='container-lg' style="height: 80%">
+    <div class="row border border-info d-block" style="height: 50%;">
+      <div id='viewer' style="width: 100%; height: 100%"></div>
+    </div>
+    <div class="row d-block">
+      <a href="#" class="btn btn-sm btn-light active" role="button" aria-pressed="true" id='refe-toggler' onclick="toggleReference();">Hide Reference</a>
+      <a href="#" class="btn btn-sm btn-light active" role="button" aria-pressed="true" id='muta-toggler' onclick="toggleMutations();">Highlight Mutations</a>
+      <a href="#" class="btn btn-sm btn-light active" role="button" aria-pressed="true" id='cont-toggler' onclick="toggleContacts();">Show Contacts</a>
+      <a class="btn btn-sm btn-light active" role="button" aria-pressed="true" data-toggle="modal" data-target="#help-modal">Show Help</a>
+    </div>
+    <div class="row d-block mt-3" style="height: 50%;">
+      <div id='models-table' class="border border-info" style="height: 100%;"></div>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="help-modal" tabindex="-1" role="dialog" aria-labelledby="help-modal-label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="help-modal-label">What am I seeing?</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          SARS-CoV-2 uses its spike protein (S) to interact with host cells, through their ACE2 receptor protein. The viewer above shows a 3D structure of human ACE2
+          bound to the SARS-CoV-2 Spike protein (S). ACE2 is shown in light gray, while S is shown in light green. Atomic elements are colored individually.
+          <br>
+          Each model represents a variant of human ACE2 bound to RBD. The models were refined using the docking software HADDOCK. You can load multiple models
+          by clicking the rows in the table below. The score in each row represents how strongly the proteins are predicted to interact, where a lower score means
+          a stronger interaction.
+          <br>
+          Clicking on "Show Contacts" displays the chemical interactions between the atoms of the loaded models as dashes.
+          <br>
+          <strong>Keep in mind that these are simplistic models and that there is very limited information you can draw from them.</strong>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <script src="js/make_table.js"></script>
+    <script src="js/nglviewer.js"></script>
+  </body>
+</html>
