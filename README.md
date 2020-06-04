@@ -1,3 +1,6 @@
-Skeleton repository to setup a simple visualizer of docking models.
+# Refined Models of human ACE2 variants bound to RBD
 
-Live version at: https://joaorodrigues.github.io/docking-results-viewer/
+https://kastritislab.github.io/human-ace2-variants/
+
+## Citation
+To be added...
