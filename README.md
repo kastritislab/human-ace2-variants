@@ -1,6 +1,7 @@
 # Refined Models of human ACE2 variants bound to RBD
 
 https://kastritislab.github.io/human-ace2-variants/
+
 https://data.sbgrid.org/dataset/791/
 
 ## Citation
